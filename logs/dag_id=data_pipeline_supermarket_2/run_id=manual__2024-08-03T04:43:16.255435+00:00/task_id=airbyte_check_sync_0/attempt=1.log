@@ -1,0 +1,30 @@
+[2024-08-03T11:44:09.093+0700] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-08-03T11:44:09.123+0700] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: data_pipeline_supermarket_2.airbyte_check_sync_0 manual__2024-08-03T04:43:16.255435+00:00 [queued]>
+[2024-08-03T11:44:09.134+0700] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: data_pipeline_supermarket_2.airbyte_check_sync_0 manual__2024-08-03T04:43:16.255435+00:00 [queued]>
+[2024-08-03T11:44:09.134+0700] {taskinstance.py:2306} INFO - Starting attempt 1 of 2
+[2024-08-03T11:44:09.184+0700] {taskinstance.py:2330} INFO - Executing <Task(AirbyteJobSensor): airbyte_check_sync_0> on 2024-08-03 04:43:16.255435+00:00
+[2024-08-03T11:44:09.192+0700] {standard_task_runner.py:64} INFO - Started process 35564 to run task
+[2024-08-03T11:44:09.229+0700] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'data_pipeline_supermarket_2', 'airbyte_check_sync_0', 'manual__2024-08-03T04:43:16.255435+00:00', '--job-id', '229', '--raw', '--subdir', 'DAGS_FOLDER/data_pipeline_supermarket_2.py', '--cfg-path', '/tmp/tmphj01clad']
+[2024-08-03T11:44:09.231+0700] {standard_task_runner.py:91} INFO - Job 229: Subtask airbyte_check_sync_0
+[2024-08-03T11:44:09.350+0700] {task_command.py:426} INFO - Running <TaskInstance: data_pipeline_supermarket_2.airbyte_check_sync_0 manual__2024-08-03T04:43:16.255435+00:00 [running]> on host DESKTOP-RHVHV7A.
+[2024-08-03T11:44:09.538+0700] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='data_pipeline_supermarket_2' AIRFLOW_CTX_TASK_ID='airbyte_check_sync_0' AIRFLOW_CTX_EXECUTION_DATE='2024-08-03T04:43:16.255435+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-08-03T04:43:16.255435+00:00'
+[2024-08-03T11:44:09.538+0700] {taskinstance.py:430} INFO - ::endgroup::
+[2024-08-03T11:44:09.555+0700] {baseoperator.py:400} WARNING - AirbyteJobSensor.execute cannot be called outside TaskInstance!
+[2024-08-03T11:44:09.564+0700] {base.py:84} INFO - Using connection ID 'airflow-call-to-airbyte-example' for task execution.
+[2024-08-03T11:44:09.820+0700] {airbyte.py:113} INFO - Waiting for job 9 to complete.
+[2024-08-03T11:45:30.877+0700] {base.py:84} INFO - Using connection ID 'airflow-call-to-airbyte-example' for task execution.
+[2024-08-03T11:45:31.598+0700] {airbyte.py:113} INFO - Waiting for job 9 to complete.
+[2024-08-03T11:46:31.658+0700] {base.py:84} INFO - Using connection ID 'airflow-call-to-airbyte-example' for task execution.
+[2024-08-03T11:46:31.738+0700] {airbyte.py:113} INFO - Waiting for job 9 to complete.
+[2024-08-03T11:47:32.996+0700] {base.py:84} INFO - Using connection ID 'airflow-call-to-airbyte-example' for task execution.
+[2024-08-03T11:48:35.127+0700] {airbyte.py:113} INFO - Waiting for job 9 to complete.
+[2024-08-03T11:49:35.199+0700] {base.py:84} INFO - Using connection ID 'airflow-call-to-airbyte-example' for task execution.
+[2024-08-03T11:49:35.228+0700] {airbyte.py:113} INFO - Waiting for job 9 to complete.
+[2024-08-03T11:50:35.413+0700] {base.py:84} INFO - Using connection ID 'airflow-call-to-airbyte-example' for task execution.
+[2024-08-03T11:53:46.905+0700] {airbyte.py:113} INFO - Waiting for job 9 to complete.
+[2024-08-03T11:54:46.993+0700] {base.py:84} INFO - Using connection ID 'airflow-call-to-airbyte-example' for task execution.
+[2024-08-03T11:54:47.013+0700] {airbyte.py:113} INFO - Waiting for job 9 to complete.
+[2024-08-03T11:55:47.073+0700] {base.py:84} INFO - Using connection ID 'airflow-call-to-airbyte-example' for task execution.
+[2024-08-03T11:55:47.094+0700] {airbyte.py:113} INFO - Waiting for job 9 to complete.
+[2024-08-03T11:56:47.213+0700] {base.py:84} INFO - Using connection ID 'airflow-call-to-airbyte-example' for task execution.
+[2024-08-03T11:58:13.850+0700] {airbyte.py:113} INFO - Waiting for job 9 to complete.

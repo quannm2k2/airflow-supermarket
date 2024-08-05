@@ -1,0 +1,900 @@
+[2024-07-31T10:49:28.325+0700] {processor.py:161} INFO - Started process (PID=6791) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T10:49:28.326+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T10:49:28.328+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:49:28.328+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:49:28.337+0700] {processor.py:840} INFO - DAG(s) 'example_postgres_dag' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:49:28.508+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:49:28.507+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T10:49:28.517+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:49:28.517+0700] {dag.py:3947} INFO - Setting next_dagrun for example_postgres_dag to None, run_after=None
+[2024-07-31T10:49:28.542+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.222 seconds
+[2024-07-31T10:49:58.635+0700] {processor.py:161} INFO - Started process (PID=7128) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T10:49:58.637+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T10:49:58.640+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:49:58.639+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:49:58.647+0700] {processor.py:840} INFO - DAG(s) 'example_postgres_dag' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:49:58.661+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:49:58.661+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T10:49:58.670+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:49:58.670+0700] {dag.py:3947} INFO - Setting next_dagrun for example_postgres_dag to None, run_after=None
+[2024-07-31T10:49:58.693+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.062 seconds
+[2024-07-31T10:50:29.206+0700] {processor.py:161} INFO - Started process (PID=7348) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T10:50:29.207+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T10:50:29.208+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:50:29.208+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:50:29.215+0700] {processor.py:840} INFO - DAG(s) 'example_postgres_dag' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:50:29.229+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:50:29.229+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T10:50:29.238+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:50:29.238+0700] {dag.py:3947} INFO - Setting next_dagrun for example_postgres_dag to None, run_after=None
+[2024-07-31T10:50:29.262+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.062 seconds
+[2024-07-31T10:50:59.581+0700] {processor.py:161} INFO - Started process (PID=7565) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T10:50:59.583+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T10:50:59.584+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:50:59.584+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:50:59.592+0700] {processor.py:840} INFO - DAG(s) 'example_postgres_dag' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:50:59.606+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:50:59.606+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T10:50:59.615+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:50:59.615+0700] {dag.py:3947} INFO - Setting next_dagrun for example_postgres_dag to None, run_after=None
+[2024-07-31T10:50:59.634+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.058 seconds
+[2024-07-31T10:51:16.304+0700] {processor.py:161} INFO - Started process (PID=7728) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T10:51:16.307+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T10:51:16.308+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:51:16.308+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:51:16.316+0700] {processor.py:840} INFO - DAG(s) 'example_postgres_dag' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:51:16.414+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:51:16.413+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T10:51:16.421+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:51:16.421+0700] {dag.py:3947} INFO - Setting next_dagrun for example_postgres_dag to None, run_after=None
+[2024-07-31T10:51:16.441+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.140 seconds
+[2024-07-31T10:51:46.702+0700] {processor.py:161} INFO - Started process (PID=7968) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T10:51:46.704+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T10:51:46.706+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:51:46.706+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:51:46.717+0700] {processor.py:840} INFO - DAG(s) 'example_postgres_dag' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:51:46.733+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:51:46.732+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T10:51:46.741+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:51:46.741+0700] {dag.py:3947} INFO - Setting next_dagrun for example_postgres_dag to None, run_after=None
+[2024-07-31T10:51:46.768+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.071 seconds
+[2024-07-31T10:52:17.252+0700] {processor.py:161} INFO - Started process (PID=8193) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T10:52:17.254+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T10:52:17.255+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:52:17.255+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:52:17.261+0700] {processor.py:840} INFO - DAG(s) 'example_postgres_dag' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:52:17.284+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:52:17.277+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T10:52:17.294+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:52:17.294+0700] {dag.py:3947} INFO - Setting next_dagrun for example_postgres_dag to None, run_after=None
+[2024-07-31T10:52:17.338+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.091 seconds
+[2024-07-31T10:52:26.408+0700] {processor.py:161} INFO - Started process (PID=8268) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T10:52:26.409+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T10:52:26.411+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:52:26.410+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:52:26.420+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:52:26.529+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:52:26.528+0700] {override.py:1858} INFO - Created Permission View: can read on DAG:postgres_test
+[2024-07-31T10:52:26.552+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:52:26.551+0700] {override.py:1858} INFO - Created Permission View: can edit on DAG:postgres_test
+[2024-07-31T10:52:26.571+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:52:26.570+0700] {override.py:1858} INFO - Created Permission View: can delete on DAG:postgres_test
+[2024-07-31T10:52:26.572+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:52:26.572+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T10:52:26.580+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:52:26.580+0700] {dag.py:3111} INFO - Creating ORM DAG for postgres_test
+[2024-07-31T10:52:26.581+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:52:26.581+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T10:52:26.610+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.207 seconds
+[2024-07-31T10:52:56.750+0700] {processor.py:161} INFO - Started process (PID=8545) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T10:52:56.752+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T10:52:56.753+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:52:56.753+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:52:56.759+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:52:56.772+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:52:56.772+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T10:52:56.780+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:52:56.780+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T10:52:56.809+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.063 seconds
+[2024-07-31T10:53:18.468+0700] {processor.py:161} INFO - Started process (PID=8804) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T10:53:18.471+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T10:53:18.472+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:53:18.472+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:53:18.480+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:53:18.589+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:53:18.588+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T10:53:18.596+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:53:18.596+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T10:53:18.627+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.162 seconds
+[2024-07-31T10:53:48.873+0700] {processor.py:161} INFO - Started process (PID=9201) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T10:53:48.874+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T10:53:48.876+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:53:48.875+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:53:48.881+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:53:48.896+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:53:48.895+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T10:53:48.904+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:53:48.904+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T10:53:48.933+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.064 seconds
+[2024-07-31T10:54:19.312+0700] {processor.py:161} INFO - Started process (PID=9484) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T10:54:19.315+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T10:54:19.317+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:54:19.317+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:54:19.325+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:54:19.341+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:54:19.340+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T10:54:19.351+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:54:19.351+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T10:54:19.381+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.073 seconds
+[2024-07-31T10:54:49.595+0700] {processor.py:161} INFO - Started process (PID=10003) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T10:54:49.597+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T10:54:49.599+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:54:49.599+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:54:49.606+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:54:49.619+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:54:49.619+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T10:54:49.629+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:54:49.628+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T10:54:49.658+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.070 seconds
+[2024-07-31T10:55:19.712+0700] {processor.py:161} INFO - Started process (PID=10454) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T10:55:19.713+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T10:55:19.715+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:55:19.714+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:55:19.723+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:55:19.736+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:55:19.736+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T10:55:19.746+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:55:19.745+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T10:55:19.776+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.068 seconds
+[2024-07-31T10:55:50.206+0700] {processor.py:161} INFO - Started process (PID=10852) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T10:55:50.208+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T10:55:50.210+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:55:50.210+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:55:50.216+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:55:50.229+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:55:50.229+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T10:55:50.237+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:55:50.237+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T10:55:50.265+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.063 seconds
+[2024-07-31T10:56:20.827+0700] {processor.py:161} INFO - Started process (PID=11258) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T10:56:20.828+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T10:56:20.829+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:56:20.829+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:56:20.836+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:56:20.852+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:56:20.852+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T10:56:20.862+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:56:20.862+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T10:56:20.892+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.070 seconds
+[2024-07-31T10:56:51.337+0700] {processor.py:161} INFO - Started process (PID=11677) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T10:56:51.339+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T10:56:51.345+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:56:51.343+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:56:51.362+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:56:51.389+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:56:51.389+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T10:56:51.400+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:56:51.400+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T10:56:51.434+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.104 seconds
+[2024-07-31T10:57:21.903+0700] {processor.py:161} INFO - Started process (PID=12093) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T10:57:21.903+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T10:57:21.905+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:57:21.904+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:57:21.912+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:57:21.926+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:57:21.925+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T10:57:21.935+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:57:21.935+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T10:57:21.967+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.068 seconds
+[2024-07-31T10:57:52.474+0700] {processor.py:161} INFO - Started process (PID=12511) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T10:57:52.475+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T10:57:52.477+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:57:52.477+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:57:52.487+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:57:52.507+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:57:52.507+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T10:57:52.519+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:57:52.519+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T10:57:52.549+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.082 seconds
+[2024-07-31T10:58:22.989+0700] {processor.py:161} INFO - Started process (PID=12847) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T10:58:22.990+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T10:58:22.991+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:58:22.991+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:58:22.998+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:58:23.012+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:58:23.012+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T10:58:23.020+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:58:23.020+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T10:58:23.040+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.055 seconds
+[2024-07-31T10:58:53.454+0700] {processor.py:161} INFO - Started process (PID=13067) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T10:58:53.455+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T10:58:53.456+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:58:53.456+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:58:53.462+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:58:53.474+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:58:53.474+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T10:58:53.482+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:58:53.482+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T10:58:53.500+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.050 seconds
+[2024-07-31T10:59:23.913+0700] {processor.py:161} INFO - Started process (PID=13467) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T10:59:23.915+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T10:59:23.916+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:59:23.916+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:59:23.926+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:59:23.945+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:59:23.945+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T10:59:23.954+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:59:23.954+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T10:59:23.973+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.066 seconds
+[2024-07-31T10:59:54.308+0700] {processor.py:161} INFO - Started process (PID=13971) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T10:59:54.309+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T10:59:54.311+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:59:54.310+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:59:54.320+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T10:59:54.333+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:59:54.333+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T10:59:54.342+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:59:54.342+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T10:59:54.363+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.059 seconds
+[2024-07-31T11:00:24.852+0700] {processor.py:161} INFO - Started process (PID=14390) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:00:24.854+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:00:24.855+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:00:24.854+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:00:24.863+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:00:24.877+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:00:24.877+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:00:24.886+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:00:24.885+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:00:24.907+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.062 seconds
+[2024-07-31T11:00:55.404+0700] {processor.py:161} INFO - Started process (PID=14785) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:00:55.406+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:00:55.407+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:00:55.407+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:00:55.414+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:00:55.427+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:00:55.427+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:00:55.435+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:00:55.435+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:00:55.455+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.055 seconds
+[2024-07-31T11:01:25.657+0700] {processor.py:161} INFO - Started process (PID=15188) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:01:25.659+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:01:25.661+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:01:25.661+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:01:25.667+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:01:25.681+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:01:25.681+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:01:25.689+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:01:25.689+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:01:25.709+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.056 seconds
+[2024-07-31T11:01:56.011+0700] {processor.py:161} INFO - Started process (PID=15467) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:01:56.014+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:01:56.016+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:01:56.015+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:01:56.023+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:01:56.039+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:01:56.039+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:01:56.048+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:01:56.047+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:01:56.069+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.063 seconds
+[2024-07-31T11:02:26.358+0700] {processor.py:161} INFO - Started process (PID=15680) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:02:26.360+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:02:26.361+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:02:26.361+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:02:26.367+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:02:26.381+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:02:26.381+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:02:26.392+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:02:26.392+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:02:26.417+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.064 seconds
+[2024-07-31T11:02:56.710+0700] {processor.py:161} INFO - Started process (PID=15898) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:02:56.713+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:02:56.714+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:02:56.714+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:02:56.720+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:02:56.732+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:02:56.732+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:02:56.741+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:02:56.740+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:02:56.762+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.056 seconds
+[2024-07-31T11:03:26.945+0700] {processor.py:161} INFO - Started process (PID=16143) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:03:26.947+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:03:26.949+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:03:26.949+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:03:26.956+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:03:26.973+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:03:26.973+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:03:26.984+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:03:26.984+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:03:27.016+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.075 seconds
+[2024-07-31T11:03:57.325+0700] {processor.py:161} INFO - Started process (PID=16355) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:03:57.327+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:03:57.329+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:03:57.329+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:03:57.337+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:03:57.353+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:03:57.352+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:03:57.362+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:03:57.361+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:03:57.393+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.073 seconds
+[2024-07-31T11:04:27.707+0700] {processor.py:161} INFO - Started process (PID=16609) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:04:27.710+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:04:27.711+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:04:27.711+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:04:27.718+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:04:27.733+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:04:27.733+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:04:27.742+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:04:27.742+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:04:27.778+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.075 seconds
+[2024-07-31T11:05:08.169+0700] {processor.py:161} INFO - Started process (PID=17370) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:05:08.172+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:05:08.173+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:05:08.173+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:05:08.180+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:05:08.194+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:05:08.194+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:05:08.204+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:05:08.204+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:05:08.234+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.069 seconds
+[2024-07-31T11:05:38.543+0700] {processor.py:161} INFO - Started process (PID=17814) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:05:38.545+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:05:38.546+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:05:38.545+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:05:38.554+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:05:38.567+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:05:38.567+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:05:38.575+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:05:38.575+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:05:38.608+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.069 seconds
+[2024-07-31T11:06:09.125+0700] {processor.py:161} INFO - Started process (PID=18216) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:06:09.126+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:06:09.127+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:06:09.127+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:06:09.134+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:06:09.149+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:06:09.149+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:06:09.159+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:06:09.159+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:06:09.189+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.068 seconds
+[2024-07-31T11:06:39.669+0700] {processor.py:161} INFO - Started process (PID=18619) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:06:39.671+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:06:39.673+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:06:39.672+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:06:39.679+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:06:39.693+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:06:39.693+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:06:39.701+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:06:39.701+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:06:39.730+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.065 seconds
+[2024-07-31T11:07:10.292+0700] {processor.py:161} INFO - Started process (PID=19023) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:07:10.294+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:07:10.295+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:07:10.295+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:07:10.301+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:07:10.316+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:07:10.315+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:07:10.328+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:07:10.327+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:07:10.361+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.073 seconds
+[2024-07-31T11:07:40.498+0700] {processor.py:161} INFO - Started process (PID=19581) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:07:40.499+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:07:40.500+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:07:40.500+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:07:40.508+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:07:40.522+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:07:40.522+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:07:40.530+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:07:40.530+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:07:40.561+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.067 seconds
+[2024-07-31T11:08:27.611+0700] {processor.py:161} INFO - Started process (PID=20456) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:08:27.613+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:08:27.615+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:08:27.614+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:08:27.625+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:08:27.640+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:08:27.640+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:08:27.649+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:08:27.649+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:08:27.680+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.076 seconds
+[2024-07-31T11:08:58.086+0700] {processor.py:161} INFO - Started process (PID=20884) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:08:58.089+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:08:58.091+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:08:58.090+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:08:58.099+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:08:58.115+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:08:58.115+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:08:58.127+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:08:58.126+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:08:58.159+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.080 seconds
+[2024-07-31T11:09:28.800+0700] {processor.py:161} INFO - Started process (PID=21286) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:09:28.802+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:09:28.804+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:09:28.803+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:09:28.810+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:09:28.823+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:09:28.823+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:09:28.833+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:09:28.833+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:09:28.862+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.066 seconds
+[2024-07-31T11:09:59.163+0700] {processor.py:161} INFO - Started process (PID=21685) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:09:59.166+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:09:59.167+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:09:59.167+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:09:59.174+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:09:59.188+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:09:59.188+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:09:59.197+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:09:59.196+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:09:59.226+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.067 seconds
+[2024-07-31T11:10:29.774+0700] {processor.py:161} INFO - Started process (PID=22289) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:10:29.775+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:10:29.777+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:10:29.777+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:10:29.787+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:10:29.806+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:10:29.805+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:10:29.814+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:10:29.814+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:10:29.843+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.073 seconds
+[2024-07-31T11:11:00.838+0700] {processor.py:161} INFO - Started process (PID=22719) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:11:00.841+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:11:00.842+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:11:00.842+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:11:00.848+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:11:00.862+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:11:00.862+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:11:00.872+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:11:00.872+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:11:00.900+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.066 seconds
+[2024-07-31T11:11:31.386+0700] {processor.py:161} INFO - Started process (PID=23138) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:11:31.388+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:11:31.390+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:11:31.389+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:11:31.397+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:11:31.412+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:11:31.412+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:11:31.421+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:11:31.421+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:11:31.451+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.071 seconds
+[2024-07-31T11:12:02.021+0700] {processor.py:161} INFO - Started process (PID=23553) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:12:02.022+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:12:02.023+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:12:02.023+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:12:02.031+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:12:02.048+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:12:02.047+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:12:02.058+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:12:02.058+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:12:02.089+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.071 seconds
+[2024-07-31T11:12:48.583+0700] {processor.py:161} INFO - Started process (PID=24327) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:12:48.584+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:12:48.586+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:12:48.585+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:12:48.594+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:12:48.610+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:12:48.610+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:12:48.618+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:12:48.618+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:12:48.648+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.071 seconds
+[2024-07-31T11:13:18.960+0700] {processor.py:161} INFO - Started process (PID=24635) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:13:18.961+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:13:18.963+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:13:18.962+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:13:18.969+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:13:18.984+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:13:18.984+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:13:18.996+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:13:18.995+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:13:19.024+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.069 seconds
+[2024-07-31T11:13:49.297+0700] {processor.py:161} INFO - Started process (PID=24910) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:13:49.298+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:13:49.299+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:13:49.299+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:13:49.307+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:13:49.325+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:13:49.325+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:13:49.339+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:13:49.339+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:13:49.367+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.075 seconds
+[2024-07-31T11:14:19.584+0700] {processor.py:161} INFO - Started process (PID=25123) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:14:19.585+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:14:19.587+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:14:19.586+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:14:19.593+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:14:19.608+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:14:19.608+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:14:19.620+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:14:19.619+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:14:19.656+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.076 seconds
+[2024-07-31T11:14:49.856+0700] {processor.py:161} INFO - Started process (PID=25341) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:14:49.857+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:14:49.858+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:14:49.857+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:14:49.864+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:14:49.878+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:14:49.878+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:14:49.886+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:14:49.886+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:14:49.911+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.059 seconds
+[2024-07-31T11:15:20.097+0700] {processor.py:161} INFO - Started process (PID=25557) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:15:20.099+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:15:20.100+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:15:20.100+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:15:20.106+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:15:20.120+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:15:20.120+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:15:20.129+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:15:20.129+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:15:20.161+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.068 seconds
+[2024-07-31T11:15:50.327+0700] {processor.py:161} INFO - Started process (PID=25779) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:15:50.328+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:15:50.330+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:15:50.329+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:15:50.338+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:15:50.356+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:15:50.356+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:15:50.370+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:15:50.370+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:15:50.416+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.093 seconds
+[2024-07-31T11:16:20.657+0700] {processor.py:161} INFO - Started process (PID=26106) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:16:20.660+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:16:20.661+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:16:20.661+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:16:20.667+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:16:20.680+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:16:20.679+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:16:20.687+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:16:20.687+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:16:20.715+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.062 seconds
+[2024-07-31T11:16:50.935+0700] {processor.py:161} INFO - Started process (PID=26320) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:16:50.935+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:16:50.936+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:16:50.936+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:16:50.943+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:16:50.955+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:16:50.955+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:16:50.964+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:16:50.964+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:16:50.991+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.061 seconds
+[2024-07-31T11:17:21.210+0700] {processor.py:161} INFO - Started process (PID=26542) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:17:21.212+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:17:21.214+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:17:21.213+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:17:21.219+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:17:21.233+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:17:21.232+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:17:21.241+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:17:21.241+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:17:21.269+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.063 seconds
+[2024-07-31T11:17:51.484+0700] {processor.py:161} INFO - Started process (PID=26761) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:17:51.484+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:17:51.485+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:17:51.485+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:17:51.491+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:17:51.504+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:17:51.503+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:17:51.511+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:17:51.511+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:17:51.537+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.057 seconds
+[2024-07-31T11:18:21.755+0700] {processor.py:161} INFO - Started process (PID=26974) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:18:21.757+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:18:21.759+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:18:21.758+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:18:21.764+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:18:21.777+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:18:21.777+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:18:21.786+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:18:21.785+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:18:21.814+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.063 seconds
+[2024-07-31T11:18:52.033+0700] {processor.py:161} INFO - Started process (PID=27219) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:18:52.034+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:18:52.035+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:18:52.034+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:18:52.041+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:18:52.054+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:18:52.054+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:18:52.062+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:18:52.062+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:18:52.092+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.063 seconds
+[2024-07-31T11:19:22.310+0700] {processor.py:161} INFO - Started process (PID=27438) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:19:22.312+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:19:22.314+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:19:22.313+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:19:22.321+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:19:22.334+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:19:22.334+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:19:22.343+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:19:22.343+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:19:22.373+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.067 seconds
+[2024-07-31T11:19:52.474+0700] {processor.py:161} INFO - Started process (PID=27649) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:19:52.475+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:19:52.476+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:19:52.476+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:19:52.482+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:19:52.496+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:19:52.496+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:19:52.504+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:19:52.504+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:19:52.532+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.061 seconds
+[2024-07-31T11:20:22.796+0700] {processor.py:161} INFO - Started process (PID=27868) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:20:22.801+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:20:22.803+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:20:22.802+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:20:22.811+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:20:22.824+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:20:22.824+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:20:22.836+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:20:22.836+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:20:22.863+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.077 seconds
+[2024-07-31T11:20:53.064+0700] {processor.py:161} INFO - Started process (PID=28098) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:20:53.066+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:20:53.068+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:20:53.067+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:20:53.074+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:20:53.089+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:20:53.089+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:20:53.098+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:20:53.098+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:20:53.126+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.068 seconds
+[2024-07-31T11:21:23.338+0700] {processor.py:161} INFO - Started process (PID=28322) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:21:23.344+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:21:23.345+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:21:23.345+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:21:23.351+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:21:23.364+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:21:23.363+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:21:23.372+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:21:23.371+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:21:23.401+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.066 seconds
+[2024-07-31T11:21:53.614+0700] {processor.py:161} INFO - Started process (PID=28559) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:21:53.615+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:21:53.617+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:21:53.616+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:21:53.623+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:21:53.636+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:21:53.636+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:21:53.647+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:21:53.647+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:21:53.677+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.067 seconds
+[2024-07-31T11:22:23.888+0700] {processor.py:161} INFO - Started process (PID=28772) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:22:23.893+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:22:23.895+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:22:23.894+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:22:23.901+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:22:23.916+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:22:23.916+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:22:23.925+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:22:23.924+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:22:23.953+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.069 seconds
+[2024-07-31T11:22:54.164+0700] {processor.py:161} INFO - Started process (PID=29001) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:22:54.167+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:22:54.169+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:22:54.168+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:22:54.175+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:22:54.187+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:22:54.187+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:22:54.195+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:22:54.195+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:22:54.222+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.061 seconds
+[2024-07-31T11:23:24.439+0700] {processor.py:161} INFO - Started process (PID=29220) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:23:24.441+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:23:24.443+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:23:24.442+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:23:24.450+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:23:24.463+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:23:24.463+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:23:24.471+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:23:24.471+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:23:24.500+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.066 seconds
+[2024-07-31T11:23:54.554+0700] {processor.py:161} INFO - Started process (PID=29458) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:23:54.555+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:23:54.557+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:23:54.556+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:23:54.563+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:23:54.576+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:23:54.576+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:23:54.584+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:23:54.584+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:23:54.612+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.062 seconds
+[2024-07-31T11:24:24.896+0700] {processor.py:161} INFO - Started process (PID=29678) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:24:24.897+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:24:24.898+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:24:24.898+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:24:24.904+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:24:24.918+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:24:24.917+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:24:24.927+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:24:24.927+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:24:24.955+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.063 seconds
+[2024-07-31T11:24:55.200+0700] {processor.py:161} INFO - Started process (PID=29899) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:24:55.201+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:24:55.202+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:24:55.202+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:24:55.208+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:24:55.221+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:24:55.221+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:24:55.230+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:24:55.230+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:24:55.256+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.061 seconds
+[2024-07-31T11:25:25.506+0700] {processor.py:161} INFO - Started process (PID=30119) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:25:25.509+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:25:25.510+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:25:25.510+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:25:25.516+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:25:25.529+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:25:25.528+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:25:25.536+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:25:25.536+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:25:25.564+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.062 seconds
+[2024-07-31T11:25:55.815+0700] {processor.py:161} INFO - Started process (PID=30341) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:25:55.816+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:25:55.817+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:25:55.817+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:25:55.823+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:25:55.836+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:25:55.836+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:25:55.844+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:25:55.844+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:25:55.872+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.062 seconds
+[2024-07-31T11:26:26.123+0700] {processor.py:161} INFO - Started process (PID=30559) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:26:26.125+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:26:26.127+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:26:26.126+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:26:26.133+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:26:26.145+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:26:26.145+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:26:26.153+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:26:26.153+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:26:26.180+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.061 seconds
+[2024-07-31T11:26:56.431+0700] {processor.py:161} INFO - Started process (PID=30772) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:26:56.432+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:26:56.433+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:26:56.433+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:26:56.439+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:26:56.451+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:26:56.451+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:26:56.459+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:26:56.459+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:26:56.485+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.058 seconds
+[2024-07-31T11:27:26.740+0700] {processor.py:161} INFO - Started process (PID=30992) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:27:26.742+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:27:26.744+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:27:26.743+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:27:26.750+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:27:26.763+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:27:26.763+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:27:26.772+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:27:26.771+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:27:26.798+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.062 seconds
+[2024-07-31T11:27:57.045+0700] {processor.py:161} INFO - Started process (PID=31211) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:27:57.047+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:27:57.049+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:27:57.048+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:27:57.056+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:27:57.069+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:27:57.069+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:27:57.077+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:27:57.077+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:27:57.106+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.065 seconds
+[2024-07-31T11:28:27.354+0700] {processor.py:161} INFO - Started process (PID=31424) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:28:27.355+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:28:27.356+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:28:27.355+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:28:27.361+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:28:27.374+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:28:27.374+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:28:27.382+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:28:27.382+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:28:27.410+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.060 seconds
+[2024-07-31T11:28:57.662+0700] {processor.py:161} INFO - Started process (PID=31670) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:28:57.665+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:28:57.666+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:28:57.666+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:28:57.672+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:28:57.684+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:28:57.684+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:28:57.692+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:28:57.692+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:28:57.725+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.067 seconds
+[2024-07-31T11:29:27.851+0700] {processor.py:161} INFO - Started process (PID=31888) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:29:27.851+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:29:27.854+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:29:27.853+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:29:27.860+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:29:27.875+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:29:27.875+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:29:27.883+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:29:27.883+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:29:27.911+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.065 seconds
+[2024-07-31T11:29:58.164+0700] {processor.py:161} INFO - Started process (PID=32103) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:29:58.166+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:29:58.167+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:29:58.167+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:29:58.173+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:29:58.186+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:29:58.186+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:29:58.194+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:29:58.193+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:29:58.222+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.063 seconds
+[2024-07-31T11:30:28.478+0700] {processor.py:161} INFO - Started process (PID=32325) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:30:28.480+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:30:28.482+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:30:28.482+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:30:28.488+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:30:28.502+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:30:28.502+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:30:28.511+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:30:28.511+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:30:28.544+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.070 seconds
+[2024-07-31T11:30:58.783+0700] {processor.py:161} INFO - Started process (PID=32544) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:30:58.785+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:30:58.787+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:30:58.786+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:30:58.792+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:30:58.805+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:30:58.805+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:30:58.813+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:30:58.813+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:30:58.841+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.062 seconds
+[2024-07-31T11:31:29.017+0700] {processor.py:161} INFO - Started process (PID=32756) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:31:29.019+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:31:29.020+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:31:29.020+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:31:29.026+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:31:29.038+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:31:29.038+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:31:29.046+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:31:29.046+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:31:29.077+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.064 seconds
+[2024-07-31T11:31:59.325+0700] {processor.py:161} INFO - Started process (PID=32977) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:31:59.327+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:31:59.328+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:31:59.328+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:31:59.334+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:31:59.349+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:31:59.349+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:31:59.357+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:31:59.357+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:31:59.383+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.065 seconds
+[2024-07-31T11:32:29.631+0700] {processor.py:161} INFO - Started process (PID=33195) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:32:29.631+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:32:29.633+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:32:29.632+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:32:29.644+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:32:29.657+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:32:29.657+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:32:29.668+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:32:29.667+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:32:29.702+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.076 seconds
+[2024-07-31T11:32:59.934+0700] {processor.py:161} INFO - Started process (PID=33411) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:32:59.936+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:32:59.937+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:32:59.937+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:32:59.943+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:32:59.963+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:32:59.962+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:32:59.971+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:32:59.971+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:32:59.999+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.069 seconds
+[2024-07-31T11:33:30.238+0700] {processor.py:161} INFO - Started process (PID=33656) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:33:30.239+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:33:30.240+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:33:30.240+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:33:30.246+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:33:30.259+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:33:30.258+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:33:30.267+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:33:30.267+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:33:30.297+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.063 seconds
+[2024-07-31T11:34:00.545+0700] {processor.py:161} INFO - Started process (PID=33879) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:34:00.547+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:34:00.548+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:34:00.548+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:34:00.554+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:34:00.567+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:34:00.567+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:34:00.575+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:34:00.575+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:34:00.606+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.065 seconds
+[2024-07-31T11:34:30.866+0700] {processor.py:161} INFO - Started process (PID=34158) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:34:30.868+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:34:30.869+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:34:30.869+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:34:30.878+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:34:30.900+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:34:30.900+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:34:30.912+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:34:30.911+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:34:30.949+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.088 seconds
+[2024-07-31T11:35:01.182+0700] {processor.py:161} INFO - Started process (PID=34379) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:35:01.184+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:35:01.185+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:35:01.185+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:35:01.192+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:35:01.206+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:35:01.206+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:35:01.216+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:35:01.216+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:35:01.244+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.066 seconds
+[2024-07-31T11:35:31.501+0700] {processor.py:161} INFO - Started process (PID=34600) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:35:31.503+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:35:31.505+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:35:31.504+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:35:31.511+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:35:31.524+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:35:31.524+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:35:31.533+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:35:31.532+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:35:31.562+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.065 seconds
+[2024-07-31T11:36:01.811+0700] {processor.py:161} INFO - Started process (PID=34814) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:36:01.813+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:36:01.814+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:36:01.814+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:36:01.820+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:36:01.833+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:36:01.833+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:36:01.841+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:36:01.841+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:36:01.871+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.064 seconds
+[2024-07-31T11:36:32.117+0700] {processor.py:161} INFO - Started process (PID=35032) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:36:32.120+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:36:32.121+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:36:32.121+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:36:32.127+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:36:32.140+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:36:32.140+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:36:32.148+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:36:32.148+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:36:32.177+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.063 seconds
+[2024-07-31T11:37:02.420+0700] {processor.py:161} INFO - Started process (PID=35252) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:37:02.421+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:37:02.422+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:37:02.422+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:37:02.428+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:37:02.442+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:37:02.442+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:37:02.450+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:37:02.450+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:37:02.478+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.062 seconds
+[2024-07-31T11:37:32.728+0700] {processor.py:161} INFO - Started process (PID=35464) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:37:32.730+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:37:32.731+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:37:32.730+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:37:32.736+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:37:32.751+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:37:32.751+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:37:32.760+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:37:32.760+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:37:32.786+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.063 seconds
+[2024-07-31T11:38:03.032+0700] {processor.py:161} INFO - Started process (PID=35684) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:38:03.034+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:38:03.036+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:38:03.035+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:38:03.041+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:38:03.055+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:38:03.054+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:38:03.063+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:38:03.063+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:38:03.093+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.064 seconds
+[2024-07-31T11:38:33.341+0700] {processor.py:161} INFO - Started process (PID=35930) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:38:33.343+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:38:33.344+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:38:33.344+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:38:33.350+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:38:33.363+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:38:33.363+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:38:33.371+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:38:33.371+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:38:33.403+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.066 seconds
+[2024-07-31T11:39:03.644+0700] {processor.py:161} INFO - Started process (PID=36143) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:39:03.646+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:39:03.647+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:39:03.647+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:39:03.653+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:39:03.666+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:39:03.665+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:39:03.673+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:39:03.673+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:39:03.703+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.063 seconds
+[2024-07-31T11:39:33.751+0700] {processor.py:161} INFO - Started process (PID=36361) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:39:33.753+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:39:33.754+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:39:33.754+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:39:33.760+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:39:33.773+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:39:33.773+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:39:33.781+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:39:33.781+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:39:33.810+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.064 seconds
+[2024-07-31T11:40:04.137+0700] {processor.py:161} INFO - Started process (PID=36586) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:40:04.139+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:40:04.141+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:40:04.140+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:40:04.147+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:40:04.160+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:40:04.160+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:40:04.168+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:40:04.168+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:40:04.196+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.063 seconds
+[2024-07-31T11:40:34.443+0700] {processor.py:161} INFO - Started process (PID=36799) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:40:34.445+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:40:34.446+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:40:34.446+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:40:34.452+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:40:34.465+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:40:34.465+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:40:34.475+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:40:34.474+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:40:34.502+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.063 seconds
+[2024-07-31T11:41:04.749+0700] {processor.py:161} INFO - Started process (PID=37023) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:41:04.750+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:41:04.751+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:41:04.751+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:41:04.756+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:41:04.769+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:41:04.769+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:41:04.778+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:41:04.778+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:41:04.804+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.058 seconds
+[2024-07-31T11:41:35.077+0700] {processor.py:161} INFO - Started process (PID=37245) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:41:35.079+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:41:35.081+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:41:35.081+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:41:35.087+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:41:35.100+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:41:35.100+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:41:35.108+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:41:35.107+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:41:35.137+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.064 seconds
+[2024-07-31T11:42:05.382+0700] {processor.py:161} INFO - Started process (PID=37462) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:42:05.383+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:42:05.384+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:42:05.384+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:42:05.390+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:42:05.403+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:42:05.403+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:42:05.411+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:42:05.410+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:42:05.438+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.060 seconds
+[2024-07-31T11:42:35.686+0700] {processor.py:161} INFO - Started process (PID=37688) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:42:35.688+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:42:35.689+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:42:35.689+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:42:35.695+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:42:35.708+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:42:35.708+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:42:35.716+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:42:35.716+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:42:35.743+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.061 seconds
+[2024-07-31T11:43:05.994+0700] {processor.py:161} INFO - Started process (PID=37909) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:43:05.995+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:43:05.996+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:43:05.995+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:43:06.001+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:43:06.014+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:43:06.014+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:43:06.023+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:43:06.023+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:43:06.044+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.054 seconds
+[2024-07-31T11:43:36.186+0700] {processor.py:161} INFO - Started process (PID=38150) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:43:36.188+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:43:36.190+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:43:36.189+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:43:36.199+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:43:36.214+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:43:36.213+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:43:36.223+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:43:36.223+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:43:36.242+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.065 seconds
+[2024-07-31T11:44:06.514+0700] {processor.py:161} INFO - Started process (PID=38368) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:44:06.515+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:44:06.516+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:44:06.516+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:44:06.523+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:44:06.539+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:44:06.539+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:44:06.548+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:44:06.548+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:44:06.578+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.067 seconds
+[2024-07-31T11:44:36.841+0700] {processor.py:161} INFO - Started process (PID=38588) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:44:36.843+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:44:36.845+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:44:36.844+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:44:36.851+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:44:36.864+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:44:36.864+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:44:36.872+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:44:36.871+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:44:36.891+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.054 seconds
+[2024-07-31T11:45:07.168+0700] {processor.py:161} INFO - Started process (PID=38803) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:45:07.170+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:45:07.171+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:45:07.171+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:45:07.177+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:45:07.190+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:45:07.189+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:45:07.197+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:45:07.197+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:45:07.216+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.052 seconds
+[2024-07-31T11:45:37.493+0700] {processor.py:161} INFO - Started process (PID=39024) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:45:37.495+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:45:37.496+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:45:37.496+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:45:37.502+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:45:37.515+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:45:37.515+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:45:37.523+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:45:37.523+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:45:37.541+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.052 seconds
+[2024-07-31T11:46:07.823+0700] {processor.py:161} INFO - Started process (PID=39243) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:46:07.825+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:46:07.826+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:46:07.826+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:46:07.832+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:46:07.845+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:46:07.844+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:46:07.853+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:46:07.853+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:46:07.874+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.055 seconds
+[2024-07-31T11:46:38.158+0700] {processor.py:161} INFO - Started process (PID=39457) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:46:38.161+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:46:38.164+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:46:38.164+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:46:38.176+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:46:38.201+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:46:38.201+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:46:38.214+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:46:38.214+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:46:38.239+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.090 seconds
+[2024-07-31T11:47:08.478+0700] {processor.py:161} INFO - Started process (PID=39675) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:47:08.478+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:47:08.480+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:47:08.479+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:47:08.485+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:47:08.499+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:47:08.498+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:47:08.507+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:47:08.506+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:47:08.529+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.055 seconds
+[2024-07-31T11:47:38.807+0700] {processor.py:161} INFO - Started process (PID=39895) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:47:38.809+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:47:38.810+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:47:38.810+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:47:38.817+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:47:38.842+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:47:38.841+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:47:38.868+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:47:38.868+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:47:38.891+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.088 seconds
+[2024-07-31T11:48:09.127+0700] {processor.py:161} INFO - Started process (PID=40108) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:48:09.128+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:48:09.129+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:48:09.129+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:48:09.135+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:48:09.148+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:48:09.148+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:48:09.156+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:48:09.156+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:48:09.181+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.058 seconds
+[2024-07-31T11:48:39.465+0700] {processor.py:161} INFO - Started process (PID=40355) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:48:39.468+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:48:39.470+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:48:39.469+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:48:39.475+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:48:39.488+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:48:39.488+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:48:39.496+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:48:39.496+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:48:39.525+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.064 seconds
+[2024-07-31T11:49:09.806+0700] {processor.py:161} INFO - Started process (PID=40573) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:49:09.807+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:49:09.808+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:49:09.808+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:49:09.814+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:49:09.828+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:49:09.828+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:49:09.836+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:49:09.836+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:49:09.866+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.064 seconds
+[2024-07-31T11:49:40.154+0700] {processor.py:161} INFO - Started process (PID=41223) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:49:40.155+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:49:40.157+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:49:40.157+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:49:40.163+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:49:40.178+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:49:40.177+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:49:40.187+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:49:40.187+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:49:40.216+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.066 seconds
+[2024-07-31T11:50:10.503+0700] {processor.py:161} INFO - Started process (PID=41460) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:50:10.504+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:50:10.505+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:50:10.505+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:50:10.512+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:50:10.530+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:50:10.529+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:50:10.540+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:50:10.539+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:50:10.568+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.070 seconds
+[2024-07-31T11:50:40.835+0700] {processor.py:161} INFO - Started process (PID=41678) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:50:40.836+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:50:40.837+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:50:40.837+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:50:40.844+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:50:40.858+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:50:40.858+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:50:40.871+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:50:40.870+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:50:40.904+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.072 seconds
+[2024-07-31T11:51:11.153+0700] {processor.py:161} INFO - Started process (PID=41897) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:51:11.154+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:51:11.155+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:51:11.155+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:51:11.161+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:51:11.175+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:51:11.175+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:51:11.183+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:51:11.183+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:51:11.201+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.053 seconds
+[2024-07-31T11:51:41.383+0700] {processor.py:161} INFO - Started process (PID=42109) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:51:41.384+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:51:41.385+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:51:41.385+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:51:41.391+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:51:41.404+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:51:41.404+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:51:41.412+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:51:41.412+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:51:41.433+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.053 seconds
+[2024-07-31T11:52:11.698+0700] {processor.py:161} INFO - Started process (PID=42327) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:52:11.699+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:52:11.700+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:52:11.700+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:52:11.706+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:52:11.719+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:52:11.719+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:52:11.728+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:52:11.728+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:52:11.747+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.053 seconds
+[2024-07-31T11:52:42.015+0700] {processor.py:161} INFO - Started process (PID=42545) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:52:42.016+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:52:42.017+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:52:42.017+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:52:42.023+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:52:42.036+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:52:42.036+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:52:42.044+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:52:42.044+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:52:42.063+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.051 seconds
+[2024-07-31T11:53:12.337+0700] {processor.py:161} INFO - Started process (PID=42892) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:53:12.339+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:53:12.340+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:53:12.340+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:53:12.348+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:53:12.364+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:53:12.364+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:53:12.373+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:53:12.373+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:53:12.404+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.072 seconds
+[2024-07-31T11:53:42.475+0700] {processor.py:161} INFO - Started process (PID=43146) to work on /root/airflow/dags/postgres_test.py
+[2024-07-31T11:53:42.477+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/postgres_test.py for tasks to queue
+[2024-07-31T11:53:42.480+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:53:42.479+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:53:42.486+0700] {processor.py:840} INFO - DAG(s) 'postgres_test' retrieved from /root/airflow/dags/postgres_test.py
+[2024-07-31T11:53:42.502+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:53:42.502+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T11:53:42.513+0700] {logging_mixin.py:188} INFO - [2024-07-31T11:53:42.512+0700] {dag.py:3947} INFO - Setting next_dagrun for postgres_test to None, run_after=None
+[2024-07-31T11:53:42.542+0700] {processor.py:183} INFO - Processing /root/airflow/dags/postgres_test.py took 0.072 seconds

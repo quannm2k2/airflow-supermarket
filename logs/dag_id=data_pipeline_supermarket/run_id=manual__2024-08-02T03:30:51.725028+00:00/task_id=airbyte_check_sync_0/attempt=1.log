@@ -1,0 +1,95 @@
+[2024-08-02T10:31:59.540+0700] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-08-02T10:31:59.594+0700] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: data_pipeline_supermarket.airbyte_check_sync_0 manual__2024-08-02T03:30:51.725028+00:00 [queued]>
+[2024-08-02T10:31:59.617+0700] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: data_pipeline_supermarket.airbyte_check_sync_0 manual__2024-08-02T03:30:51.725028+00:00 [queued]>
+[2024-08-02T10:31:59.618+0700] {taskinstance.py:2306} INFO - Starting attempt 1 of 2
+[2024-08-02T10:31:59.680+0700] {taskinstance.py:2330} INFO - Executing <Task(AirbyteJobSensor): airbyte_check_sync_0> on 2024-08-02 03:30:51.725028+00:00
+[2024-08-02T10:31:59.684+0700] {standard_task_runner.py:64} INFO - Started process 5311 to run task
+[2024-08-02T10:31:59.699+0700] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'data_pipeline_supermarket', 'airbyte_check_sync_0', 'manual__2024-08-02T03:30:51.725028+00:00', '--job-id', '88', '--raw', '--subdir', 'DAGS_FOLDER/data_pipeline_supermarket.py', '--cfg-path', '/tmp/tmpnhlz0xzt']
+[2024-08-02T10:31:59.702+0700] {standard_task_runner.py:91} INFO - Job 88: Subtask airbyte_check_sync_0
+[2024-08-02T10:31:59.833+0700] {task_command.py:426} INFO - Running <TaskInstance: data_pipeline_supermarket.airbyte_check_sync_0 manual__2024-08-02T03:30:51.725028+00:00 [running]> on host DESKTOP-RHVHV7A.
+[2024-08-02T10:32:00.097+0700] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='data_pipeline_supermarket' AIRFLOW_CTX_TASK_ID='airbyte_check_sync_0' AIRFLOW_CTX_EXECUTION_DATE='2024-08-02T03:30:51.725028+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-08-02T03:30:51.725028+00:00'
+[2024-08-02T10:32:00.098+0700] {taskinstance.py:430} INFO - ::endgroup::
+[2024-08-02T10:32:00.155+0700] {baseoperator.py:400} WARNING - AirbyteJobSensor.execute cannot be called outside TaskInstance!
+[2024-08-02T10:32:00.168+0700] {base.py:84} INFO - Using connection ID 'airflow-call-to-airbyte-example' for task execution.
+[2024-08-02T10:32:00.839+0700] {airbyte.py:113} INFO - Waiting for job 69 to complete.
+[2024-08-02T10:34:31.336+0700] {base.py:84} INFO - Using connection ID 'airflow-call-to-airbyte-example' for task execution.
+[2024-08-02T10:34:34.370+0700] {airbyte.py:113} INFO - Waiting for job 69 to complete.
+[2024-08-02T10:35:34.437+0700] {base.py:84} INFO - Using connection ID 'airflow-call-to-airbyte-example' for task execution.
+[2024-08-02T10:35:34.441+0700] {http.py:243} WARNING - HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/v1/jobs/get (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f97f9d07b50>: Failed to establish a new connection: [Errno 111] Connection refused')) Tenacity will retry to execute the operation
+[2024-08-02T10:35:34.444+0700] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-08-02T10:35:34.445+0700] {taskinstance.py:2905} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 196, in _new_conn
+    sock = connection.create_connection(
+  File "/usr/local/lib/python3.10/dist-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+  File "/usr/local/lib/python3.10/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+  File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 495, in _make_request
+    conn.request(
+  File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 398, in request
+    self.endheaders()
+  File "/usr/lib/python3.10/http/client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1038, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.10/http/client.py", line 976, in send
+    self.connect()
+  File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 236, in connect
+    self.sock = self._new_conn()
+  File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 211, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f97f9d07b50>: Failed to establish a new connection: [Errno 111] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/requests/adapters.py", line 667, in send
+    resp = conn.urlopen(
+  File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+  File "/usr/local/lib/python3.10/dist-packages/urllib3/util/retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/v1/jobs/get (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f97f9d07b50>: Failed to establish a new connection: [Errno 111] Connection refused'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/taskinstance.py", line 465, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/taskinstance.py", line 432, in _execute_callable
+    return execute_callable(context=context, **execute_callable_kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/baseoperator.py", line 401, in wrapper
+    return func(self, *args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/providers/airbyte/sensors/airbyte.py", line 119, in execute
+    super().execute(context)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/baseoperator.py", line 401, in wrapper
+    return func(self, *args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/sensors/base.py", line 264, in execute
+    raise e
+  File "/usr/local/lib/python3.10/dist-packages/airflow/sensors/base.py", line 246, in execute
+    poke_return = self.poke(context)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/providers/airbyte/sensors/airbyte.py", line 89, in poke
+    job = hook.get_job(job_id=self.airbyte_job_id)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/providers/airbyte/hooks/airbyte.py", line 209, in get_job
+    return self.run(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/providers/http/hooks/http.py", line 188, in run
+    return self.run_and_check(session, prepped_request, extra_options)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/providers/http/hooks/http.py", line 244, in run_and_check
+    raise ex
+  File "/usr/local/lib/python3.10/dist-packages/airflow/providers/http/hooks/http.py", line 236, in run_and_check
+    response = session.send(prepped_request, **send_kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/requests/adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/v1/jobs/get (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f97f9d07b50>: Failed to establish a new connection: [Errno 111] Connection refused'))
+[2024-08-02T10:35:34.469+0700] {taskinstance.py:1206} INFO - Marking task as UP_FOR_RETRY. dag_id=data_pipeline_supermarket, task_id=airbyte_check_sync_0, run_id=manual__2024-08-02T03:30:51.725028+00:00, execution_date=20240802T033051, start_date=20240802T033159, end_date=20240802T033534
+[2024-08-02T10:35:34.499+0700] {standard_task_runner.py:110} ERROR - Failed to execute job 88 for task airbyte_check_sync_0 (HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/v1/jobs/get (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f97f9d07b50>: Failed to establish a new connection: [Errno 111] Connection refused')); 5311)

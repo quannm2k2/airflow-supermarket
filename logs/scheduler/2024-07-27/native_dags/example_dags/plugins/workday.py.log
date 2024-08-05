@@ -1,0 +1,834 @@
+[2024-07-27T18:29:29.160+0700] {processor.py:161} INFO - Started process (PID=1328) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T18:29:29.161+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T18:29:29.162+0700] {logging_mixin.py:188} INFO - [2024-07-27T18:29:29.162+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T18:29:29.165+0700] {logging_mixin.py:188} INFO - [2024-07-27T18:29:29.165+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T18:29:29.166+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T18:29:29.173+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.016 seconds
+[2024-07-27T18:30:19.118+0700] {processor.py:161} INFO - Started process (PID=1582) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T18:30:19.120+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T18:30:19.122+0700] {logging_mixin.py:188} INFO - [2024-07-27T18:30:19.122+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T18:30:19.124+0700] {logging_mixin.py:188} INFO - [2024-07-27T18:30:19.124+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T18:30:19.124+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T18:30:19.133+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.020 seconds
+[2024-07-27T21:31:56.703+0700] {processor.py:161} INFO - Started process (PID=1479) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:31:56.704+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T21:31:56.706+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:31:56.706+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:31:56.708+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:31:56.708+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T21:31:56.709+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:31:56.719+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.021 seconds
+[2024-07-27T21:32:47.411+0700] {processor.py:161} INFO - Started process (PID=1967) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:32:47.412+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T21:32:47.413+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:32:47.413+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:32:47.415+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:32:47.415+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T21:32:47.415+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:32:47.424+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2024-07-27T21:33:30.067+0700] {processor.py:161} INFO - Started process (PID=2349) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:33:30.071+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T21:33:30.073+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:33:30.072+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:33:30.076+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:33:30.075+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T21:33:30.076+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:33:30.089+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.028 seconds
+[2024-07-27T21:34:22.522+0700] {processor.py:161} INFO - Started process (PID=3044) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:34:22.523+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T21:34:22.524+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:34:22.524+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:34:22.527+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:34:22.526+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T21:34:22.527+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:34:22.534+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.017 seconds
+[2024-07-27T21:35:06.387+0700] {processor.py:161} INFO - Started process (PID=3409) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:35:06.390+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T21:35:06.392+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:35:06.391+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:35:06.394+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:35:06.393+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T21:35:06.394+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:35:06.401+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.019 seconds
+[2024-07-27T21:35:49.535+0700] {processor.py:161} INFO - Started process (PID=3754) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:35:49.537+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T21:35:49.540+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:35:49.539+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:35:49.542+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:35:49.542+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T21:35:49.543+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:35:49.551+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.021 seconds
+[2024-07-27T21:36:32.127+0700] {processor.py:161} INFO - Started process (PID=4130) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:36:32.128+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T21:36:32.130+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:36:32.130+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:36:32.132+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:36:32.132+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T21:36:32.133+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:36:32.141+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2024-07-27T21:37:12.255+0700] {processor.py:161} INFO - Started process (PID=4500) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:37:12.256+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T21:37:12.257+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:37:12.257+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:37:12.260+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:37:12.259+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T21:37:12.260+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:37:12.268+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.017 seconds
+[2024-07-27T21:37:56.469+0700] {processor.py:161} INFO - Started process (PID=4850) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:37:56.472+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T21:37:56.473+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:37:56.473+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:37:56.476+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:37:56.475+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T21:37:56.476+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:37:56.484+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.020 seconds
+[2024-07-27T21:38:43.992+0700] {processor.py:161} INFO - Started process (PID=5220) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:38:43.995+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T21:38:43.996+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:38:43.995+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:38:43.998+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:38:43.998+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T21:38:43.999+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:38:44.008+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.020 seconds
+[2024-07-27T21:39:29.433+0700] {processor.py:161} INFO - Started process (PID=5729) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:39:29.435+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T21:39:29.436+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:39:29.436+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:39:29.439+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:39:29.438+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T21:39:29.439+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:39:29.451+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.022 seconds
+[2024-07-27T21:40:11.500+0700] {processor.py:161} INFO - Started process (PID=6193) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:40:11.502+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T21:40:11.502+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:40:11.502+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:40:11.504+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:40:11.504+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T21:40:11.505+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:40:11.513+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.017 seconds
+[2024-07-27T21:40:52.265+0700] {processor.py:161} INFO - Started process (PID=6617) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:40:52.268+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T21:40:52.270+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:40:52.269+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:40:52.271+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:40:52.271+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T21:40:52.272+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:40:52.280+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.020 seconds
+[2024-07-27T21:41:34.337+0700] {processor.py:161} INFO - Started process (PID=7093) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:41:34.342+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T21:41:34.343+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:41:34.343+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:41:34.345+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:41:34.345+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T21:41:34.346+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:41:34.354+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.021 seconds
+[2024-07-27T21:44:11.095+0700] {processor.py:161} INFO - Started process (PID=9204) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:44:11.096+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T21:44:11.097+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:44:11.096+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:44:11.099+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:44:11.099+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T21:44:11.100+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:44:11.111+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.022 seconds
+[2024-07-27T21:45:03.330+0700] {processor.py:161} INFO - Started process (PID=9703) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:45:03.333+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T21:45:03.334+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:45:03.333+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:45:03.336+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:45:03.336+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T21:45:03.336+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:45:03.344+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2024-07-27T21:45:47.414+0700] {processor.py:161} INFO - Started process (PID=10087) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:45:47.418+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T21:45:47.419+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:45:47.419+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:45:47.421+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:45:47.420+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T21:45:47.421+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:45:47.428+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2024-07-27T21:48:11.198+0700] {processor.py:161} INFO - Started process (PID=11759) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:48:11.200+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T21:48:11.200+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:48:11.200+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:48:11.202+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:48:11.202+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T21:48:11.203+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:48:11.211+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.021 seconds
+[2024-07-27T21:49:00.419+0700] {processor.py:161} INFO - Started process (PID=12201) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:49:00.422+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T21:49:00.423+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:49:00.422+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:49:00.425+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:49:00.424+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T21:49:00.425+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:49:00.433+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2024-07-27T21:49:39.972+0700] {processor.py:161} INFO - Started process (PID=12615) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:49:39.975+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T21:49:39.976+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:49:39.975+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:49:39.978+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:49:39.978+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T21:49:39.978+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:49:39.987+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.020 seconds
+[2024-07-27T21:50:20.525+0700] {processor.py:161} INFO - Started process (PID=13030) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:50:20.526+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T21:50:20.527+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:50:20.527+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:50:20.529+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:50:20.529+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T21:50:20.529+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:50:20.538+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2024-07-27T21:50:59.140+0700] {processor.py:161} INFO - Started process (PID=13431) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:50:59.141+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T21:50:59.142+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:50:59.142+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:50:59.144+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:50:59.144+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T21:50:59.145+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:50:59.153+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.017 seconds
+[2024-07-27T21:51:42.873+0700] {processor.py:161} INFO - Started process (PID=13838) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:51:42.875+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T21:51:42.876+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:51:42.876+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:51:42.879+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:51:42.879+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T21:51:42.880+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:51:42.895+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.028 seconds
+[2024-07-27T21:54:35.130+0700] {processor.py:161} INFO - Started process (PID=15599) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:54:35.131+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T21:54:35.132+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:54:35.132+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:54:35.134+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:54:35.134+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T21:54:35.135+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:54:35.143+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.017 seconds
+[2024-07-27T21:55:25.061+0700] {processor.py:161} INFO - Started process (PID=16338) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:55:25.063+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T21:55:25.064+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:55:25.064+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:55:25.066+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:55:25.066+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T21:55:25.066+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:55:25.074+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2024-07-27T21:57:59.888+0700] {processor.py:161} INFO - Started process (PID=18457) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:57:59.891+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T21:57:59.892+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:57:59.892+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:57:59.894+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:57:59.894+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T21:57:59.895+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:57:59.904+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.020 seconds
+[2024-07-27T21:58:50.203+0700] {processor.py:161} INFO - Started process (PID=18910) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:58:50.206+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T21:58:50.207+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:58:50.206+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:58:50.209+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:58:50.209+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T21:58:50.209+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:58:50.219+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.021 seconds
+[2024-07-27T21:59:33.886+0700] {processor.py:161} INFO - Started process (PID=19343) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:59:33.889+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T21:59:33.889+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:59:33.889+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:59:33.891+0700] {logging_mixin.py:188} INFO - [2024-07-27T21:59:33.891+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T21:59:33.892+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T21:59:33.900+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2024-07-27T22:00:18.252+0700] {processor.py:161} INFO - Started process (PID=19721) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:00:18.396+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:00:18.398+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:00:18.397+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:00:18.401+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:00:18.400+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:00:18.401+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:00:18.410+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.188 seconds
+[2024-07-27T22:01:09.232+0700] {processor.py:161} INFO - Started process (PID=20112) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:01:09.234+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:01:09.235+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:01:09.234+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:01:09.237+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:01:09.237+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:01:09.237+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:01:09.253+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.032 seconds
+[2024-07-27T22:01:55.370+0700] {processor.py:161} INFO - Started process (PID=20612) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:01:55.371+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:01:55.372+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:01:55.372+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:01:55.375+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:01:55.375+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:01:55.376+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:01:55.383+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.019 seconds
+[2024-07-27T22:02:34.933+0700] {processor.py:161} INFO - Started process (PID=20955) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:02:34.934+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:02:34.936+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:02:34.935+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:02:34.939+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:02:34.939+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:02:34.939+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:02:34.950+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.022 seconds
+[2024-07-27T22:03:17.903+0700] {processor.py:161} INFO - Started process (PID=21361) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:03:17.906+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:03:17.907+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:03:17.907+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:03:17.909+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:03:17.909+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:03:17.910+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:03:17.917+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2024-07-27T22:04:00.754+0700] {processor.py:161} INFO - Started process (PID=21731) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:04:00.756+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:04:00.756+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:04:00.756+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:04:00.759+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:04:00.758+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:04:00.759+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:04:00.768+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2024-07-27T22:04:46.056+0700] {processor.py:161} INFO - Started process (PID=22330) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:04:46.057+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:04:46.058+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:04:46.058+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:04:46.061+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:04:46.061+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:04:46.062+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:04:46.072+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.021 seconds
+[2024-07-27T22:05:29.335+0700] {processor.py:161} INFO - Started process (PID=22671) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:05:29.336+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:05:29.337+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:05:29.337+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:05:29.339+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:05:29.339+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:05:29.340+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:05:29.347+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2024-07-27T22:06:11.717+0700] {processor.py:161} INFO - Started process (PID=23194) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:06:11.719+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:06:11.720+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:06:11.720+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:06:11.724+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:06:11.724+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:06:11.724+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:06:11.734+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.021 seconds
+[2024-07-27T22:07:02.165+0700] {processor.py:161} INFO - Started process (PID=23738) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:07:02.167+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:07:02.168+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:07:02.168+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:07:02.171+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:07:02.170+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:07:02.171+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:07:02.180+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.019 seconds
+[2024-07-27T22:07:44.546+0700] {processor.py:161} INFO - Started process (PID=24107) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:07:44.551+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:07:44.553+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:07:44.552+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:07:44.556+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:07:44.556+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:07:44.557+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:07:44.565+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.024 seconds
+[2024-07-27T22:08:26.463+0700] {processor.py:161} INFO - Started process (PID=24596) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:08:26.465+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:08:26.466+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:08:26.466+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:08:26.468+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:08:26.468+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:08:26.469+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:08:26.477+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.019 seconds
+[2024-07-27T22:09:06.318+0700] {processor.py:161} INFO - Started process (PID=25061) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:09:06.319+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:09:06.320+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:09:06.320+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:09:06.323+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:09:06.323+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:09:06.323+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:09:06.335+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.023 seconds
+[2024-07-27T22:09:48.946+0700] {processor.py:161} INFO - Started process (PID=25427) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:09:48.949+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:09:48.950+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:09:48.950+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:09:48.952+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:09:48.952+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:09:48.952+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:09:48.961+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.019 seconds
+[2024-07-27T22:10:34.850+0700] {processor.py:161} INFO - Started process (PID=25796) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:10:34.856+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:10:34.856+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:10:34.856+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:10:34.858+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:10:34.858+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:10:34.859+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:10:34.867+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.022 seconds
+[2024-07-27T22:11:05.270+0700] {processor.py:161} INFO - Started process (PID=26011) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:11:05.271+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:11:05.272+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:11:05.271+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:11:05.274+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:11:05.274+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:11:05.274+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:11:05.282+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.016 seconds
+[2024-07-27T22:11:35.700+0700] {processor.py:161} INFO - Started process (PID=26228) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:11:35.702+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:11:35.703+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:11:35.703+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:11:35.706+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:11:35.705+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:11:35.706+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:11:35.714+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2024-07-27T22:12:06.150+0700] {processor.py:161} INFO - Started process (PID=26475) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:12:06.151+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:12:06.152+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:12:06.152+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:12:06.154+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:12:06.154+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:12:06.155+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:12:06.163+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2024-07-27T22:12:36.484+0700] {processor.py:161} INFO - Started process (PID=26872) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:12:36.486+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:12:36.487+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:12:36.486+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:12:36.489+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:12:36.489+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:12:36.489+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:12:36.498+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.019 seconds
+[2024-07-27T22:13:06.819+0700] {processor.py:161} INFO - Started process (PID=27203) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:13:06.822+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:13:06.823+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:13:06.823+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:13:06.825+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:13:06.825+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:13:06.826+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:13:06.833+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.020 seconds
+[2024-07-27T22:13:36.990+0700] {processor.py:161} INFO - Started process (PID=27481) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:13:36.993+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:13:36.994+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:13:36.993+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:13:36.996+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:13:36.996+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:13:36.997+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:13:37.007+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.022 seconds
+[2024-07-27T22:14:07.164+0700] {processor.py:161} INFO - Started process (PID=27785) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:14:07.165+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:14:07.166+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:14:07.166+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:14:07.168+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:14:07.168+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:14:07.168+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:14:07.176+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.017 seconds
+[2024-07-27T22:14:37.336+0700] {processor.py:161} INFO - Started process (PID=28093) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:14:37.338+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:14:37.339+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:14:37.338+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:14:37.341+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:14:37.341+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:14:37.341+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:14:37.349+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2024-07-27T22:15:07.509+0700] {processor.py:161} INFO - Started process (PID=28305) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:15:07.510+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:15:07.511+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:15:07.511+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:15:07.513+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:15:07.513+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:15:07.514+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:15:07.521+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.017 seconds
+[2024-07-27T22:15:38.815+0700] {processor.py:161} INFO - Started process (PID=28531) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:15:38.817+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:15:38.818+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:15:38.818+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:15:38.820+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:15:38.820+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:15:38.820+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:15:38.828+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.017 seconds
+[2024-07-27T22:16:08.997+0700] {processor.py:161} INFO - Started process (PID=28842) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:16:08.999+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:16:09.000+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:16:08.999+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:16:09.002+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:16:09.002+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:16:09.003+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:16:09.011+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2024-07-27T22:16:39.177+0700] {processor.py:161} INFO - Started process (PID=29190) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:16:39.179+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:16:39.180+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:16:39.180+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:16:39.183+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:16:39.183+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:16:39.184+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:16:39.193+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.021 seconds
+[2024-07-27T22:17:09.346+0700] {processor.py:161} INFO - Started process (PID=29404) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:17:09.348+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:17:09.348+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:17:09.348+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:17:09.350+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:17:09.350+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:17:09.351+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:17:09.360+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.020 seconds
+[2024-07-27T22:17:40.679+0700] {processor.py:161} INFO - Started process (PID=29719) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:17:40.681+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:17:40.682+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:17:40.681+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:17:40.685+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:17:40.684+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:17:40.685+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:17:40.697+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.024 seconds
+[2024-07-27T22:18:10.844+0700] {processor.py:161} INFO - Started process (PID=30120) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:18:10.847+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:18:10.848+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:18:10.848+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:18:10.850+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:18:10.850+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:18:10.851+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:18:10.859+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.019 seconds
+[2024-07-27T22:18:41.691+0700] {processor.py:161} INFO - Started process (PID=30435) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:18:41.694+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:18:41.694+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:18:41.694+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:18:41.697+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:18:41.696+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:18:41.697+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:18:41.705+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2024-07-27T22:19:12.139+0700] {processor.py:161} INFO - Started process (PID=30712) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:19:12.142+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:19:12.143+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:19:12.142+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:19:12.146+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:19:12.145+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:19:12.146+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:19:12.154+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.019 seconds
+[2024-07-27T22:19:42.579+0700] {processor.py:161} INFO - Started process (PID=31017) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:19:42.580+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:19:42.581+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:19:42.581+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:19:42.583+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:19:42.583+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:19:42.583+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:19:42.592+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2024-07-27T22:20:13.023+0700] {processor.py:161} INFO - Started process (PID=31376) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:20:13.026+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:20:13.027+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:20:13.027+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:20:13.029+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:20:13.029+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:20:13.029+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:20:13.037+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2024-07-27T22:20:43.282+0700] {processor.py:161} INFO - Started process (PID=31697) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:20:43.284+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:20:43.286+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:20:43.285+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:20:43.289+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:20:43.288+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:20:43.289+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:20:43.298+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.021 seconds
+[2024-07-27T22:21:13.484+0700] {processor.py:161} INFO - Started process (PID=32099) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:21:13.485+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:21:13.485+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:21:13.485+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:21:13.487+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:21:13.487+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:21:13.488+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:21:13.496+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.017 seconds
+[2024-07-27T22:21:43.689+0700] {processor.py:161} INFO - Started process (PID=32309) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:21:43.695+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:21:43.696+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:21:43.695+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:21:43.697+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:21:43.697+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:21:43.698+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:21:43.706+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.021 seconds
+[2024-07-27T22:22:13.895+0700] {processor.py:161} INFO - Started process (PID=32525) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:22:13.896+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:22:13.897+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:22:13.897+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:22:13.899+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:22:13.899+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:22:13.900+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:22:13.909+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.019 seconds
+[2024-07-27T22:22:44.107+0700] {processor.py:161} INFO - Started process (PID=32738) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:22:44.108+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:22:44.109+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:22:44.109+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:22:44.112+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:22:44.112+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:22:44.113+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:22:44.122+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.020 seconds
+[2024-07-27T22:23:14.312+0700] {processor.py:161} INFO - Started process (PID=33019) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:23:14.314+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:23:14.315+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:23:14.315+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:23:14.317+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:23:14.317+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:23:14.318+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:23:14.326+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.019 seconds
+[2024-07-27T22:23:44.518+0700] {processor.py:161} INFO - Started process (PID=33266) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:23:44.521+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:23:44.521+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:23:44.521+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:23:44.524+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:23:44.523+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:23:44.524+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:23:44.532+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2024-07-27T22:24:14.726+0700] {processor.py:161} INFO - Started process (PID=33476) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:24:14.728+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:24:14.728+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:24:14.728+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:24:14.730+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:24:14.730+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:24:14.731+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:24:14.739+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.017 seconds
+[2024-07-27T22:24:44.933+0700] {processor.py:161} INFO - Started process (PID=33719) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:24:44.934+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:24:44.935+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:24:44.935+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:24:44.938+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:24:44.938+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:24:44.939+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:24:44.946+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2024-07-27T22:25:15.146+0700] {processor.py:161} INFO - Started process (PID=33933) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:25:15.148+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:25:15.148+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:25:15.148+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:25:15.150+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:25:15.150+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:25:15.151+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:25:15.158+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.016 seconds
+[2024-07-27T22:25:45.407+0700] {processor.py:161} INFO - Started process (PID=34149) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:25:45.409+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:25:45.412+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:25:45.411+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:25:45.417+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:25:45.417+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:25:45.418+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:25:45.438+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.056 seconds
+[2024-07-27T22:26:15.569+0700] {processor.py:161} INFO - Started process (PID=34358) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:26:15.571+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:26:15.572+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:26:15.572+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:26:15.574+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:26:15.574+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:26:15.575+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:26:15.583+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.019 seconds
+[2024-07-27T22:26:45.754+0700] {processor.py:161} INFO - Started process (PID=34573) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:26:45.754+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:26:45.755+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:26:45.755+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:26:45.758+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:26:45.757+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:26:45.758+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:26:45.769+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.020 seconds
+[2024-07-27T22:27:16.048+0700] {processor.py:161} INFO - Started process (PID=34790) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:27:16.050+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:27:16.051+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:27:16.050+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:27:16.053+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:27:16.053+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:27:16.053+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:27:16.061+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.017 seconds
+[2024-07-27T22:27:46.360+0700] {processor.py:161} INFO - Started process (PID=35000) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:27:46.362+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:27:46.362+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:27:46.362+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:27:46.365+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:27:46.364+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:27:46.365+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:27:46.374+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2024-07-27T22:28:16.684+0700] {processor.py:161} INFO - Started process (PID=35216) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:28:16.687+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:28:16.688+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:28:16.688+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:28:16.690+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:28:16.690+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:28:16.691+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:28:16.699+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.019 seconds
+[2024-07-27T22:28:46.993+0700] {processor.py:161} INFO - Started process (PID=35426) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:28:46.995+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:28:46.996+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:28:46.996+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:28:46.999+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:28:46.998+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:28:46.999+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:28:47.008+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.020 seconds
+[2024-07-27T22:29:17.284+0700] {processor.py:161} INFO - Started process (PID=35643) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:29:17.287+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:29:17.288+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:29:17.288+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:29:17.290+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:29:17.290+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:29:17.291+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:29:17.298+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2024-07-27T22:29:47.606+0700] {processor.py:161} INFO - Started process (PID=35886) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:29:47.607+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:29:47.608+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:29:47.608+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:29:47.611+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:29:47.611+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:29:47.612+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:29:47.629+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.029 seconds
+[2024-07-27T22:30:17.912+0700] {processor.py:161} INFO - Started process (PID=36098) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:30:17.914+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:30:17.915+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:30:17.915+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:30:17.919+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:30:17.918+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:30:17.919+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:30:17.928+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.020 seconds
+[2024-07-27T22:30:48.221+0700] {processor.py:161} INFO - Started process (PID=36313) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:30:48.225+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:30:48.226+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:30:48.226+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:30:48.228+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:30:48.228+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:30:48.228+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:30:48.236+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.020 seconds
+[2024-07-27T22:31:18.425+0700] {processor.py:161} INFO - Started process (PID=36527) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:31:18.427+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:31:18.428+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:31:18.428+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:31:18.431+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:31:18.431+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:31:18.431+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:31:18.439+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.019 seconds
+[2024-07-27T22:31:48.624+0700] {processor.py:161} INFO - Started process (PID=36739) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:31:48.627+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:31:48.628+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:31:48.627+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:31:48.631+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:31:48.630+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:31:48.631+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:31:48.641+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.021 seconds
+[2024-07-27T22:32:18.821+0700] {processor.py:161} INFO - Started process (PID=36955) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:32:18.825+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:32:18.825+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:32:18.825+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:32:18.828+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:32:18.827+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:32:18.828+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:32:18.836+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.019 seconds
+[2024-07-27T22:32:49.021+0700] {processor.py:161} INFO - Started process (PID=37165) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:32:49.024+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:32:49.025+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:32:49.025+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:32:49.027+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:32:49.027+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:32:49.028+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:32:49.036+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.020 seconds
+[2024-07-27T22:33:19.232+0700] {processor.py:161} INFO - Started process (PID=37381) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:33:19.234+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:33:19.235+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:33:19.235+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:33:19.237+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:33:19.237+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:33:19.237+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:33:19.246+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.019 seconds
+[2024-07-27T22:33:49.431+0700] {processor.py:161} INFO - Started process (PID=37613) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:33:49.432+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:33:49.433+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:33:49.432+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:33:49.435+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:33:49.435+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:33:49.435+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:33:49.444+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2024-07-27T22:36:23.799+0700] {processor.py:161} INFO - Started process (PID=39733) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:36:23.802+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:36:23.803+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:36:23.802+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:36:23.805+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:36:23.804+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:36:23.805+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:36:23.813+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.019 seconds
+[2024-07-27T22:36:54.205+0700] {processor.py:161} INFO - Started process (PID=40177) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:36:54.207+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:36:54.208+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:36:54.207+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:36:54.210+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:36:54.210+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:36:54.210+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:36:54.223+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.023 seconds
+[2024-07-27T22:37:24.633+0700] {processor.py:161} INFO - Started process (PID=40576) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:37:24.634+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:37:24.635+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:37:24.635+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:37:24.637+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:37:24.637+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:37:24.637+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:37:24.646+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.017 seconds
+[2024-07-27T22:37:55.441+0700] {processor.py:161} INFO - Started process (PID=40794) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:37:55.444+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:37:55.449+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:37:55.446+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:37:55.453+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:37:55.452+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:37:55.453+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:37:55.464+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.027 seconds
+[2024-07-27T22:38:25.851+0700] {processor.py:161} INFO - Started process (PID=41005) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:38:25.854+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:38:25.856+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:38:25.854+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:38:25.860+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:38:25.859+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:38:25.861+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:38:25.872+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.026 seconds
+[2024-07-27T22:38:56.254+0700] {processor.py:161} INFO - Started process (PID=41220) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:38:56.258+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:38:56.259+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:38:56.259+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:38:56.263+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:38:56.262+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:38:56.263+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:38:56.274+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.025 seconds
+[2024-07-27T22:39:26.642+0700] {processor.py:161} INFO - Started process (PID=41431) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:39:26.648+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:39:26.649+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:39:26.649+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:39:26.652+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:39:26.652+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:39:26.652+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:39:26.664+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.028 seconds
+[2024-07-27T22:39:57.041+0700] {processor.py:161} INFO - Started process (PID=41647) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:39:57.043+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:39:57.045+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:39:57.044+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:39:57.049+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:39:57.049+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:39:57.050+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:39:57.062+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.025 seconds
+[2024-07-27T22:40:27.275+0700] {processor.py:161} INFO - Started process (PID=41858) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:40:27.278+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:40:27.279+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:40:27.279+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:40:27.281+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:40:27.281+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:40:27.284+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:40:27.294+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.027 seconds
+[2024-07-27T22:40:57.498+0700] {processor.py:161} INFO - Started process (PID=42067) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:40:57.501+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:40:57.503+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:40:57.502+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:40:57.506+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:40:57.505+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:40:57.506+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:40:57.517+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.025 seconds
+[2024-07-27T22:41:27.713+0700] {processor.py:161} INFO - Started process (PID=42312) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:41:27.716+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:41:27.717+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:41:27.716+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:41:27.719+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:41:27.718+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:41:27.719+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:41:27.727+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.019 seconds
+[2024-07-27T22:41:57.917+0700] {processor.py:161} INFO - Started process (PID=42527) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:41:57.917+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:41:57.918+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:41:57.918+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:41:57.920+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:41:57.920+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:41:57.920+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:41:57.928+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.016 seconds
+[2024-07-27T22:42:28.094+0700] {processor.py:161} INFO - Started process (PID=42737) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:42:28.097+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:42:28.098+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:42:28.098+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:42:28.100+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:42:28.100+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:42:28.100+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:42:28.108+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2024-07-27T22:42:58.290+0700] {processor.py:161} INFO - Started process (PID=42952) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:42:58.291+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:42:58.292+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:42:58.291+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:42:58.294+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:42:58.293+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:42:58.294+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:42:58.307+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.023 seconds
+[2024-07-27T22:43:28.528+0700] {processor.py:161} INFO - Started process (PID=43162) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:43:28.531+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:43:28.532+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:43:28.532+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:43:28.534+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:43:28.534+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:43:28.535+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:43:28.551+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.031 seconds
+[2024-07-27T22:43:58.755+0700] {processor.py:161} INFO - Started process (PID=43374) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:43:58.756+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:43:58.757+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:43:58.756+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:43:58.759+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:43:58.759+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:43:58.759+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:43:58.772+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.023 seconds
+[2024-07-27T22:44:28.989+0700] {processor.py:161} INFO - Started process (PID=43587) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:44:28.993+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:44:28.995+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:44:28.994+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:44:28.998+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:44:28.998+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:44:28.999+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:44:29.011+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.026 seconds
+[2024-07-27T22:44:59.218+0700] {processor.py:161} INFO - Started process (PID=43797) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:44:59.219+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:44:59.220+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:44:59.219+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:44:59.222+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:44:59.222+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:44:59.222+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:44:59.234+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.022 seconds
+[2024-07-27T22:45:29.413+0700] {processor.py:161} INFO - Started process (PID=44015) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:45:29.415+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:45:29.417+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:45:29.416+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:45:29.419+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:45:29.419+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:45:29.419+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:45:29.434+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.030 seconds
+[2024-07-27T22:45:59.664+0700] {processor.py:161} INFO - Started process (PID=44225) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:45:59.666+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:45:59.667+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:45:59.667+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:45:59.669+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:45:59.669+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:45:59.670+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:45:59.680+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.026 seconds
+[2024-07-27T22:46:30.424+0700] {processor.py:161} INFO - Started process (PID=44470) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:46:30.425+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:46:30.426+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:46:30.426+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:46:30.428+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:46:30.428+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:46:30.433+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:46:30.444+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.025 seconds
+[2024-07-27T22:47:00.904+0700] {processor.py:161} INFO - Started process (PID=44680) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:47:00.906+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:47:00.907+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:47:00.906+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:47:00.911+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:47:00.911+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:47:00.912+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:47:00.928+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.036 seconds
+[2024-07-27T22:47:31.331+0700] {processor.py:161} INFO - Started process (PID=44902) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:47:31.333+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:47:31.334+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:47:31.334+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:47:31.341+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:47:31.341+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:47:31.341+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:47:31.350+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.026 seconds
+[2024-07-27T22:48:01.616+0700] {processor.py:161} INFO - Started process (PID=45112) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:48:01.619+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:48:01.620+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:48:01.620+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:48:01.622+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:48:01.622+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:48:01.623+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:48:01.633+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.023 seconds
+[2024-07-27T22:48:31.854+0700] {processor.py:161} INFO - Started process (PID=45328) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:48:31.858+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:48:31.860+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:48:31.859+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:48:31.863+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:48:31.863+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:48:31.864+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:48:31.879+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.031 seconds
+[2024-07-27T22:49:02.089+0700] {processor.py:161} INFO - Started process (PID=45537) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:49:02.092+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:49:02.094+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:49:02.093+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:49:02.100+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:49:02.099+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:49:02.100+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:49:02.109+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.025 seconds
+[2024-07-27T22:49:32.321+0700] {processor.py:161} INFO - Started process (PID=45753) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:49:32.324+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:49:32.325+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:49:32.325+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:49:32.327+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:49:32.327+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:49:32.328+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:49:32.344+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.027 seconds
+[2024-07-27T22:50:03.151+0700] {processor.py:161} INFO - Started process (PID=45966) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:50:03.154+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:50:03.155+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:50:03.154+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:50:03.157+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:50:03.157+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:50:03.157+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:50:03.169+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.024 seconds
+[2024-07-27T22:50:33.609+0700] {processor.py:161} INFO - Started process (PID=46183) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:50:33.611+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:50:33.612+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:50:33.611+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:50:33.614+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:50:33.614+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:50:33.614+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:50:33.627+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.026 seconds
+[2024-07-27T22:51:03.807+0700] {processor.py:161} INFO - Started process (PID=46392) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:51:03.810+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:51:03.812+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:51:03.811+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:51:03.816+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:51:03.815+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:51:03.816+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:51:03.830+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.029 seconds
+[2024-07-27T22:51:33.994+0700] {processor.py:161} INFO - Started process (PID=46635) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:51:33.997+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:51:33.999+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:51:33.998+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:51:34.002+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:51:34.001+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:51:34.005+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:51:34.017+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.029 seconds
+[2024-07-27T22:52:04.183+0700] {processor.py:161} INFO - Started process (PID=46844) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:52:04.183+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:52:04.184+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:52:04.184+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:52:04.186+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:52:04.186+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:52:04.186+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:52:04.199+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.025 seconds
+[2024-07-27T22:52:34.376+0700] {processor.py:161} INFO - Started process (PID=47060) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:52:34.379+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:52:34.380+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:52:34.380+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:52:34.383+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:52:34.382+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:52:34.383+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:52:34.395+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.024 seconds
+[2024-07-27T22:53:04.568+0700] {processor.py:161} INFO - Started process (PID=47269) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:53:04.571+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:53:04.572+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:53:04.572+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:53:04.574+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:53:04.574+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:53:04.574+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:53:04.587+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.028 seconds
+[2024-07-27T22:53:34.748+0700] {processor.py:161} INFO - Started process (PID=47479) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:53:34.753+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:53:34.754+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:53:34.754+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:53:34.757+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:53:34.757+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:53:34.758+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:53:34.769+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.025 seconds
+[2024-07-27T22:54:04.954+0700] {processor.py:161} INFO - Started process (PID=47694) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:54:04.956+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:54:04.957+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:54:04.957+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:54:04.959+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:54:04.959+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:54:04.959+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:54:04.972+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.025 seconds
+[2024-07-27T22:54:35.146+0700] {processor.py:161} INFO - Started process (PID=47904) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:54:35.147+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:54:35.149+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:54:35.149+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:54:35.155+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:54:35.154+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:54:35.155+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:54:35.167+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.026 seconds
+[2024-07-27T22:55:05.349+0700] {processor.py:161} INFO - Started process (PID=48122) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:55:05.353+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:55:05.354+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:55:05.354+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:55:05.357+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:55:05.357+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:55:05.357+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:55:05.370+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.026 seconds
+[2024-07-27T22:55:35.541+0700] {processor.py:161} INFO - Started process (PID=48332) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:55:35.544+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:55:35.545+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:55:35.544+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:55:35.548+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:55:35.548+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:55:35.549+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:55:35.560+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.028 seconds
+[2024-07-27T22:56:05.723+0700] {processor.py:161} INFO - Started process (PID=48541) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:56:05.730+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:56:05.731+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:56:05.731+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:56:05.734+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:56:05.733+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:56:05.734+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:56:05.745+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.028 seconds
+[2024-07-27T22:56:35.915+0700] {processor.py:161} INFO - Started process (PID=48784) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:56:35.917+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:56:35.918+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:56:35.918+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:56:35.920+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:56:35.920+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:56:35.920+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:56:35.932+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.024 seconds
+[2024-07-27T22:57:06.105+0700] {processor.py:161} INFO - Started process (PID=48993) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:57:06.105+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:57:06.106+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:57:06.106+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:57:06.111+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:57:06.110+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:57:06.112+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:57:06.120+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.020 seconds
+[2024-07-27T22:57:37.445+0700] {processor.py:161} INFO - Started process (PID=49214) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:57:37.448+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:57:37.449+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:57:37.449+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:57:37.451+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:57:37.451+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:57:37.452+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:57:37.462+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.023 seconds
+[2024-07-27T22:58:07.633+0700] {processor.py:161} INFO - Started process (PID=49429) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:58:07.633+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:58:07.634+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:58:07.634+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:58:07.636+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:58:07.636+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:58:07.637+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:58:07.647+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.021 seconds
+[2024-07-27T22:58:37.816+0700] {processor.py:161} INFO - Started process (PID=49639) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:58:37.820+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:58:37.821+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:58:37.820+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:58:37.823+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:58:37.823+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:58:37.823+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:58:37.835+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.024 seconds
+[2024-07-27T22:59:08.008+0700] {processor.py:161} INFO - Started process (PID=49851) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:59:08.009+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:59:08.010+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:59:08.010+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:59:08.013+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:59:08.013+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:59:08.013+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:59:08.027+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.028 seconds
+[2024-07-27T22:59:38.192+0700] {processor.py:161} INFO - Started process (PID=50064) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:59:38.195+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T22:59:38.197+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:59:38.196+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:59:38.199+0700] {logging_mixin.py:188} INFO - [2024-07-27T22:59:38.199+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T22:59:38.200+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T22:59:38.214+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.027 seconds
+[2024-07-27T23:00:08.384+0700] {processor.py:161} INFO - Started process (PID=50274) to work on /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T23:00:08.386+0700] {processor.py:830} INFO - Processing file /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-07-27T23:00:08.388+0700] {logging_mixin.py:188} INFO - [2024-07-27T23:00:08.387+0700] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T23:00:08.391+0700] {logging_mixin.py:188} INFO - [2024-07-27T23:00:08.391+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-07-27T23:00:08.392+0700] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py
+[2024-07-27T23:00:08.408+0700] {processor.py:183} INFO - Processing /usr/local/lib/python3.10/dist-packages/airflow/example_dags/plugins/workday.py took 0.029 seconds

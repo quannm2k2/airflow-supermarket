@@ -1,0 +1,21 @@
+[2024-08-03T11:18:43.797+0700] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-08-03T11:18:43.811+0700] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: postgres_with_s3_test.offload_to_s3 manual__2024-08-03T04:18:38.367455+00:00 [queued]>
+[2024-08-03T11:18:43.817+0700] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: postgres_with_s3_test.offload_to_s3 manual__2024-08-03T04:18:38.367455+00:00 [queued]>
+[2024-08-03T11:18:43.817+0700] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2024-08-03T11:18:43.844+0700] {taskinstance.py:2330} INFO - Executing <Task(BashOperator): offload_to_s3> on 2024-08-03 04:18:38.367455+00:00
+[2024-08-03T11:18:43.847+0700] {standard_task_runner.py:64} INFO - Started process 28650 to run task
+[2024-08-03T11:18:43.849+0700] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'postgres_with_s3_test', 'offload_to_s3', 'manual__2024-08-03T04:18:38.367455+00:00', '--job-id', '204', '--raw', '--subdir', 'DAGS_FOLDER/postgres_with_s3_test.py', '--cfg-path', '/tmp/tmpt7tc7enf']
+[2024-08-03T11:18:43.850+0700] {standard_task_runner.py:91} INFO - Job 204: Subtask offload_to_s3
+[2024-08-03T11:18:43.888+0700] {task_command.py:426} INFO - Running <TaskInstance: postgres_with_s3_test.offload_to_s3 manual__2024-08-03T04:18:38.367455+00:00 [running]> on host DESKTOP-RHVHV7A.
+[2024-08-03T11:18:43.966+0700] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='postgres_with_s3_test' AIRFLOW_CTX_TASK_ID='offload_to_s3' AIRFLOW_CTX_EXECUTION_DATE='2024-08-03T04:18:38.367455+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-08-03T04:18:38.367455+00:00'
+[2024-08-03T11:18:43.966+0700] {taskinstance.py:430} INFO - ::endgroup::
+[2024-08-03T11:18:43.978+0700] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2024-08-03T11:18:43.979+0700] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'aws s3 cp "/mnt/f/AllCode/Data Engineer/fct_user_orders.csv" s3://quannm-07252024-demo/supermarket-data/fct_user_orders.csv']
+[2024-08-03T11:18:43.985+0700] {subprocess.py:86} INFO - Output:
+[2024-08-03T11:18:47.615+0700] {subprocess.py:93} INFO - Completed 256.0 KiB/3.2 MiB (126.2 KiB/s) with 1 file(s) remainingCompleted 512.0 KiB/3.2 MiB (235.2 KiB/s) with 1 file(s) remainingCompleted 768.0 KiB/3.2 MiB (330.2 KiB/s) with 1 file(s) remainingCompleted 1.0 MiB/3.2 MiB (438.2 KiB/s) with 1 file(s) remaining  Completed 1.2 MiB/3.2 MiB (537.0 KiB/s) with 1 file(s) remaining  Completed 1.5 MiB/3.2 MiB (621.6 KiB/s) with 1 file(s) remaining  Completed 1.8 MiB/3.2 MiB (720.5 KiB/s) with 1 file(s) remaining  Completed 2.0 MiB/3.2 MiB (779.9 KiB/s) with 1 file(s) remaining  Completed 2.2 MiB/3.2 MiB (874.1 KiB/s) with 1 file(s) remaining  Completed 2.5 MiB/3.2 MiB (967.4 KiB/s) with 1 file(s) remaining  Completed 2.8 MiB/3.2 MiB (1.0 MiB/s) with 1 file(s) remaining    Completed 3.0 MiB/3.2 MiB (1.1 MiB/s) with 1 file(s) remaining    Completed 3.2 MiB/3.2 MiB (1.1 MiB/s) with 1 file(s) remaining    upload: ../../mnt/f/AllCode/Data Engineer/fct_user_orders.csv to s3://quannm-07252024-demo/supermarket-data/fct_user_orders.csv
+[2024-08-03T11:18:47.760+0700] {subprocess.py:97} INFO - Command exited with return code 0
+[2024-08-03T11:18:47.761+0700] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-08-03T11:18:47.789+0700] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=postgres_with_s3_test, task_id=offload_to_s3, run_id=manual__2024-08-03T04:18:38.367455+00:00, execution_date=20240803T041838, start_date=20240803T041843, end_date=20240803T041847
+[2024-08-03T11:18:47.818+0700] {local_task_job_runner.py:243} INFO - Task exited with return code 0
+[2024-08-03T11:18:47.828+0700] {taskinstance.py:3503} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-08-03T11:18:47.828+0700] {local_task_job_runner.py:222} INFO - ::endgroup::

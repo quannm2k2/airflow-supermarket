@@ -1,0 +1,28 @@
+[2024-08-03T11:26:09.259+0700] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-08-03T11:26:09.273+0700] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: list_postgres_s3.copy_table_dim_departments manual__2024-08-03T04:26:01.070053+00:00 [queued]>
+[2024-08-03T11:26:09.279+0700] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: list_postgres_s3.copy_table_dim_departments manual__2024-08-03T04:26:01.070053+00:00 [queued]>
+[2024-08-03T11:26:09.279+0700] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2024-08-03T11:26:09.304+0700] {taskinstance.py:2330} INFO - Executing <Task(PostgresOperator): copy_table_dim_departments> on 2024-08-03 04:26:01.070053+00:00
+[2024-08-03T11:26:09.308+0700] {standard_task_runner.py:64} INFO - Started process 30671 to run task
+[2024-08-03T11:26:09.311+0700] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'list_postgres_s3', 'copy_table_dim_departments', 'manual__2024-08-03T04:26:01.070053+00:00', '--job-id', '215', '--raw', '--subdir', 'DAGS_FOLDER/list_postgres_s3.py', '--cfg-path', '/tmp/tmpc917kgz0']
+[2024-08-03T11:26:09.312+0700] {standard_task_runner.py:91} INFO - Job 215: Subtask copy_table_dim_departments
+[2024-08-03T11:26:09.349+0700] {task_command.py:426} INFO - Running <TaskInstance: list_postgres_s3.copy_table_dim_departments manual__2024-08-03T04:26:01.070053+00:00 [running]> on host DESKTOP-RHVHV7A.
+[2024-08-03T11:26:09.421+0700] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='list_postgres_s3' AIRFLOW_CTX_TASK_ID='copy_table_dim_departments' AIRFLOW_CTX_EXECUTION_DATE='2024-08-03T04:26:01.070053+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-08-03T04:26:01.070053+00:00'
+[2024-08-03T11:26:09.422+0700] {taskinstance.py:430} INFO - ::endgroup::
+[2024-08-03T11:26:09.432+0700] {sql.py:282} INFO - Executing: 
+        SET search_path TO supermarket;
+        COPY dim_departments TO 'F:/AllCode/Data Engineer/dim_departments.csv' CSV HEADER;
+        
+[2024-08-03T11:26:09.436+0700] {base.py:84} INFO - Using connection ID 'postgres_supermarket' for task execution.
+[2024-08-03T11:26:09.452+0700] {base.py:84} INFO - Using connection ID 'postgres_supermarket' for task execution.
+[2024-08-03T11:26:09.486+0700] {sql.py:495} INFO - Running statement: 
+        SET search_path TO supermarket;
+        COPY dim_departments TO 'F:/AllCode/Data Engineer/dim_departments.csv' CSV HEADER;
+        , parameters: None
+[2024-08-03T11:26:09.489+0700] {sql.py:504} INFO - Rows affected: 21
+[2024-08-03T11:26:09.491+0700] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-08-03T11:26:09.495+0700] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=list_postgres_s3, task_id=copy_table_dim_departments, run_id=manual__2024-08-03T04:26:01.070053+00:00, execution_date=20240803T042601, start_date=20240803T042609, end_date=20240803T042609
+[2024-08-03T11:26:09.523+0700] {local_task_job_runner.py:243} INFO - Task exited with return code 0
+[2024-08-03T11:26:09.532+0700] {logging_mixin.py:188} WARNING - /usr/local/lib/python3.10/dist-packages/airflow/models/baseoperator.py:1297 AirflowProviderDeprecationWarning: Call to deprecated class PostgresOperator. (Please use `airflow.providers.common.sql.operators.sql.SQLExecuteQueryOperator`.Also, you can provide `hook_params={'schema': <database>}`.)
+[2024-08-03T11:26:09.544+0700] {taskinstance.py:3503} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2024-08-03T11:26:09.557+0700] {local_task_job_runner.py:222} INFO - ::endgroup::

@@ -1,0 +1,25 @@
+[2024-08-02T14:25:33.605+0700] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-08-02T14:25:33.616+0700] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: data_pipeline_supermarket_2.connect_supermarket_schema manual__2024-08-02T07:09:40.143577+00:00 [queued]>
+[2024-08-02T14:25:33.628+0700] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: data_pipeline_supermarket_2.connect_supermarket_schema manual__2024-08-02T07:09:40.143577+00:00 [queued]>
+[2024-08-02T14:25:33.628+0700] {taskinstance.py:2306} INFO - Starting attempt 2 of 2
+[2024-08-02T14:25:33.676+0700] {taskinstance.py:2330} INFO - Executing <Task(PostgresOperator): connect_supermarket_schema> on 2024-08-02 07:09:40.143577+00:00
+[2024-08-02T14:25:33.678+0700] {standard_task_runner.py:64} INFO - Started process 15141 to run task
+[2024-08-02T14:25:33.684+0700] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'data_pipeline_supermarket_2', 'connect_supermarket_schema', 'manual__2024-08-02T07:09:40.143577+00:00', '--job-id', '131', '--raw', '--subdir', 'DAGS_FOLDER/data_pipeline_supermarket_2.py', '--cfg-path', '/tmp/tmpt2odu7of']
+[2024-08-02T14:25:33.686+0700] {standard_task_runner.py:91} INFO - Job 131: Subtask connect_supermarket_schema
+[2024-08-02T14:25:33.741+0700] {task_command.py:426} INFO - Running <TaskInstance: data_pipeline_supermarket_2.connect_supermarket_schema manual__2024-08-02T07:09:40.143577+00:00 [running]> on host DESKTOP-RHVHV7A.
+[2024-08-02T14:25:33.805+0700] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='data_pipeline_supermarket_2' AIRFLOW_CTX_TASK_ID='connect_supermarket_schema' AIRFLOW_CTX_EXECUTION_DATE='2024-08-02T07:09:40.143577+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-08-02T07:09:40.143577+00:00'
+[2024-08-02T14:25:33.805+0700] {taskinstance.py:430} INFO - ::endgroup::
+[2024-08-02T14:25:33.815+0700] {sql.py:282} INFO - Executing: 
+    SET search_path TO supermarket;
+    
+[2024-08-02T14:25:33.819+0700] {base.py:84} INFO - Using connection ID 'postgres_supermarket' for task execution.
+[2024-08-02T14:25:33.835+0700] {base.py:84} INFO - Using connection ID 'postgres_supermarket' for task execution.
+[2024-08-02T14:25:33.867+0700] {sql.py:495} INFO - Running statement: 
+    SET search_path TO supermarket;
+    , parameters: None
+[2024-08-02T14:25:33.869+0700] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-08-02T14:25:33.873+0700] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=data_pipeline_supermarket_2, task_id=connect_supermarket_schema, run_id=manual__2024-08-02T07:09:40.143577+00:00, execution_date=20240802T070940, start_date=20240802T072533, end_date=20240802T072533
+[2024-08-02T14:25:33.934+0700] {local_task_job_runner.py:243} INFO - Task exited with return code 0
+[2024-08-02T14:25:33.943+0700] {logging_mixin.py:188} WARNING - /usr/local/lib/python3.10/dist-packages/airflow/models/baseoperator.py:1297 AirflowProviderDeprecationWarning: Call to deprecated class PostgresOperator. (Please use `airflow.providers.common.sql.operators.sql.SQLExecuteQueryOperator`.Also, you can provide `hook_params={'schema': <database>}`.)
+[2024-08-02T14:25:33.954+0700] {taskinstance.py:3503} INFO - 4 downstream tasks scheduled from follow-on schedule check
+[2024-08-02T14:25:33.968+0700] {local_task_job_runner.py:222} INFO - ::endgroup::

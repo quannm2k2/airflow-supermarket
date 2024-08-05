@@ -1,0 +1,14 @@
+[2024-07-31T10:27:53.006+0700] {processor.py:161} INFO - Started process (PID=9233) to work on /root/airflow/dags/dbt_subprocess_test_dag.py
+[2024-07-31T10:27:53.007+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/dbt_subprocess_test_dag.py for tasks to queue
+[2024-07-31T10:27:53.009+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:27:53.008+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/dbt_subprocess_test_dag.py
+[2024-07-31T10:27:53.022+0700] {processor.py:840} INFO - DAG(s) 'dbt_test_dag' retrieved from /root/airflow/dags/dbt_subprocess_test_dag.py
+[2024-07-31T10:27:53.217+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:27:53.217+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T10:27:53.234+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:27:53.234+0700] {dag.py:3947} INFO - Setting next_dagrun for dbt_test_dag to 2024-07-30 00:00:00+00:00, run_after=2024-07-31 00:00:00+00:00
+[2024-07-31T10:27:53.271+0700] {processor.py:183} INFO - Processing /root/airflow/dags/dbt_subprocess_test_dag.py took 0.269 seconds
+[2024-07-31T10:28:23.656+0700] {processor.py:161} INFO - Started process (PID=9643) to work on /root/airflow/dags/dbt_subprocess_test_dag.py
+[2024-07-31T10:28:23.657+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/dbt_subprocess_test_dag.py for tasks to queue
+[2024-07-31T10:28:23.659+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:28:23.658+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/dbt_subprocess_test_dag.py
+[2024-07-31T10:28:23.671+0700] {processor.py:840} INFO - DAG(s) 'dbt_test_dag' retrieved from /root/airflow/dags/dbt_subprocess_test_dag.py
+[2024-07-31T10:28:23.686+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:28:23.686+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-07-31T10:28:23.703+0700] {logging_mixin.py:188} INFO - [2024-07-31T10:28:23.703+0700] {dag.py:3947} INFO - Setting next_dagrun for dbt_test_dag to 2024-07-30 00:00:00+00:00, run_after=2024-07-31 00:00:00+00:00
+[2024-07-31T10:28:23.732+0700] {processor.py:183} INFO - Processing /root/airflow/dags/dbt_subprocess_test_dag.py took 0.081 seconds

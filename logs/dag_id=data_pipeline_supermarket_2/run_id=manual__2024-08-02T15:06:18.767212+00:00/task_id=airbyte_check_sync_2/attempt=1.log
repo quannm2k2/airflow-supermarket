@@ -1,0 +1,77 @@
+[2024-08-02T22:51:52.675+0700] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-08-02T22:51:52.687+0700] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: data_pipeline_supermarket_2.airbyte_check_sync_2 manual__2024-08-02T15:06:18.767212+00:00 [queued]>
+[2024-08-02T22:51:52.702+0700] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: data_pipeline_supermarket_2.airbyte_check_sync_2 manual__2024-08-02T15:06:18.767212+00:00 [queued]>
+[2024-08-02T22:51:52.702+0700] {taskinstance.py:2306} INFO - Starting attempt 1 of 2
+[2024-08-02T22:51:52.718+0700] {taskinstance.py:2330} INFO - Executing <Task(AirbyteJobSensor): airbyte_check_sync_2> on 2024-08-02 15:06:18.767212+00:00
+[2024-08-02T22:51:52.721+0700] {standard_task_runner.py:64} INFO - Started process 1421 to run task
+[2024-08-02T22:51:52.732+0700] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'data_pipeline_supermarket_2', 'airbyte_check_sync_2', 'manual__2024-08-02T15:06:18.767212+00:00', '--job-id', '160', '--raw', '--subdir', 'DAGS_FOLDER/data_pipeline_supermarket_2.py', '--cfg-path', '/tmp/tmp5f330_ri']
+[2024-08-02T22:51:52.743+0700] {standard_task_runner.py:91} INFO - Job 160: Subtask airbyte_check_sync_2
+[2024-08-02T22:51:52.781+0700] {task_command.py:426} INFO - Running <TaskInstance: data_pipeline_supermarket_2.airbyte_check_sync_2 manual__2024-08-02T15:06:18.767212+00:00 [running]> on host DESKTOP-RHVHV7A.
+[2024-08-02T22:51:52.865+0700] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='data_pipeline_supermarket_2' AIRFLOW_CTX_TASK_ID='airbyte_check_sync_2' AIRFLOW_CTX_EXECUTION_DATE='2024-08-02T15:06:18.767212+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-08-02T15:06:18.767212+00:00'
+[2024-08-02T22:51:52.865+0700] {taskinstance.py:430} INFO - ::endgroup::
+[2024-08-02T22:51:52.883+0700] {baseoperator.py:400} WARNING - AirbyteJobSensor.execute cannot be called outside TaskInstance!
+[2024-08-02T22:51:52.889+0700] {base.py:84} INFO - Using connection ID 'airflow-call-to-airbyte-example' for task execution.
+[2024-08-02T22:51:52.925+0700] {http.py:200} ERROR - HTTP error: Bad Gateway
+[2024-08-02T22:51:52.926+0700] {http.py:201} ERROR - <!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+html { color-scheme: light dark; }
+body { width: 35em; margin: 0 auto;
+font-family: Tahoma, Verdana, Arial, sans-serif; }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the error log for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+[2024-08-02T22:51:52.926+0700] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-08-02T22:51:52.929+0700] {taskinstance.py:2905} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/providers/http/hooks/http.py", line 198, in check_response
+    response.raise_for_status()
+  File "/usr/local/lib/python3.10/dist-packages/requests/models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 502 Server Error: Bad Gateway for url: http://localhost:8000/api/v1/jobs/get
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/taskinstance.py", line 465, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/taskinstance.py", line 432, in _execute_callable
+    return execute_callable(context=context, **execute_callable_kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/baseoperator.py", line 401, in wrapper
+    return func(self, *args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/providers/airbyte/sensors/airbyte.py", line 119, in execute
+    super().execute(context)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/baseoperator.py", line 401, in wrapper
+    return func(self, *args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/sensors/base.py", line 264, in execute
+    raise e
+  File "/usr/local/lib/python3.10/dist-packages/airflow/sensors/base.py", line 246, in execute
+    poke_return = self.poke(context)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/providers/airbyte/sensors/airbyte.py", line 89, in poke
+    job = hook.get_job(job_id=self.airbyte_job_id)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/providers/airbyte/hooks/airbyte.py", line 209, in get_job
+    return self.run(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/providers/http/hooks/http.py", line 188, in run
+    return self.run_and_check(session, prepped_request, extra_options)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/providers/http/hooks/http.py", line 239, in run_and_check
+    self.check_response(response)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/providers/http/hooks/http.py", line 202, in check_response
+    raise AirflowException(str(response.status_code) + ":" + response.reason)
+airflow.exceptions.AirflowException: 502:Bad Gateway
+[2024-08-02T22:51:52.933+0700] {taskinstance.py:1206} INFO - Marking task as UP_FOR_RETRY. dag_id=data_pipeline_supermarket_2, task_id=airbyte_check_sync_2, run_id=manual__2024-08-02T15:06:18.767212+00:00, execution_date=20240802T150618, start_date=20240802T155152, end_date=20240802T155152
+[2024-08-02T22:51:52.960+0700] {standard_task_runner.py:110} ERROR - Failed to execute job 160 for task airbyte_check_sync_2 (502:Bad Gateway; 1421)
+[2024-08-02T22:51:52.984+0700] {local_task_job_runner.py:243} INFO - Task exited with return code 1
+[2024-08-02T22:51:52.994+0700] {logging_mixin.py:188} WARNING - /usr/local/lib/python3.10/dist-packages/airflow/models/baseoperator.py:1297 AirflowProviderDeprecationWarning: Call to deprecated class PostgresOperator. (Please use `airflow.providers.common.sql.operators.sql.SQLExecuteQueryOperator`.Also, you can provide `hook_params={'schema': <database>}`.)
+[2024-08-02T22:51:53.019+0700] {taskinstance.py:3503} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-08-02T22:51:53.028+0700] {local_task_job_runner.py:222} INFO - ::endgroup::

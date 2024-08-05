@@ -1,0 +1,49 @@
+[2024-08-03T10:53:13.238+0700] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-08-03T10:53:13.247+0700] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: data_pipeline_supermarket_2.airbyte_trigger_sync_1 manual__2024-08-03T03:53:07.089285+00:00 [queued]>
+[2024-08-03T10:53:13.252+0700] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: data_pipeline_supermarket_2.airbyte_trigger_sync_1 manual__2024-08-03T03:53:07.089285+00:00 [queued]>
+[2024-08-03T10:53:13.252+0700] {taskinstance.py:2306} INFO - Starting attempt 1 of 2
+[2024-08-03T10:53:13.274+0700] {taskinstance.py:2330} INFO - Executing <Task(AirbyteTriggerSyncOperator): airbyte_trigger_sync_1> on 2024-08-03 03:53:07.089285+00:00
+[2024-08-03T10:53:13.276+0700] {standard_task_runner.py:64} INFO - Started process 21307 to run task
+[2024-08-03T10:53:13.282+0700] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'data_pipeline_supermarket_2', 'airbyte_trigger_sync_1', 'manual__2024-08-03T03:53:07.089285+00:00', '--job-id', '176', '--raw', '--subdir', 'DAGS_FOLDER/data_pipeline_supermarket_2.py', '--cfg-path', '/tmp/tmpexfbtiuy']
+[2024-08-03T10:53:13.283+0700] {standard_task_runner.py:91} INFO - Job 176: Subtask airbyte_trigger_sync_1
+[2024-08-03T10:53:13.325+0700] {task_command.py:426} INFO - Running <TaskInstance: data_pipeline_supermarket_2.airbyte_trigger_sync_1 manual__2024-08-03T03:53:07.089285+00:00 [running]> on host DESKTOP-RHVHV7A.
+[2024-08-03T10:53:13.534+0700] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='data_pipeline_supermarket_2' AIRFLOW_CTX_TASK_ID='airbyte_trigger_sync_1' AIRFLOW_CTX_EXECUTION_DATE='2024-08-03T03:53:07.089285+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-08-03T03:53:07.089285+00:00'
+[2024-08-03T10:53:13.534+0700] {taskinstance.py:430} INFO - ::endgroup::
+[2024-08-03T10:53:13.548+0700] {base.py:84} INFO - Using connection ID 'airflow-call-to-airbyte-example' for task execution.
+[2024-08-03T10:53:13.575+0700] {http.py:200} ERROR - HTTP error: Not Found
+[2024-08-03T10:53:13.575+0700] {http.py:201} ERROR - {"message":"Internal Server Error: Could not find configuration for STANDARD_SYNC: 2138cf75-52e3-405e-bbab-4df7e358c918.","exceptionClassName":"io.airbyte.commons.server.errors.IdNotFoundKnownException","exceptionStack":["io.airbyte.commons.server.errors.IdNotFoundKnownException: Could not find configuration for STANDARD_SYNC: 2138cf75-52e3-405e-bbab-4df7e358c918.","\tat io.airbyte.server.apis.ApiHelper.execute(ApiHelper.java:32)","\tat io.airbyte.server.apis.ConnectionApiController.syncConnection(ConnectionApiController.java:261)","\tat io.airbyte.server.apis.$ConnectionApiController$Definition$Exec.dispatch(Unknown Source)","\tat io.micronaut.context.AbstractExecutableMethodsDefinition$DispatchedExecutableMethod.invokeUnsafe(AbstractExecutableMethodsDefinition.java:461)","\tat io.micronaut.context.DefaultBeanContext$BeanContextUnsafeExecutionHandle.invokeUnsafe(DefaultBeanContext.java:4325)","\tat io.micronaut.web.router.AbstractRouteMatch.execute(AbstractRouteMatch.java:271)","\tat io.micronaut.web.router.DefaultUriRouteMatch.execute(DefaultUriRouteMatch.java:39)","\tat io.micronaut.http.server.RouteExecutor.executeRouteAndConvertBody(RouteExecutor.java:490)","\tat io.micronaut.http.server.RouteExecutor.lambda$callRoute$6(RouteExecutor.java:467)","\tat io.micronaut.core.execution.ExecutionFlow.lambda$async$1(ExecutionFlow.java:87)","\tat io.micronaut.core.propagation.PropagatedContext.lambda$wrap$3(PropagatedContext.java:211)","\tat java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)","\tat java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)","\tat java.base/java.lang.Thread.run(Thread.java:1583)","Caused by: io.airbyte.config.persistence.ConfigNotFoundException: config type: STANDARD_SYNC id: 2138cf75-52e3-405e-bbab-4df7e358c918","\tat io.airbyte.config.persistence.ConfigRepository.getStandardSync(ConfigRepository.java:988)","\tat io.airbyte.commons.server.handlers.SchedulerHandler.submitManualSyncToWorker(SchedulerHandler.java:798)","\tat io.airbyte.commons.server.handlers.SchedulerHandler.syncConnection(SchedulerHandler.java:602)","\tat io.airbyte.server.apis.ConnectionApiController.lambda$syncConnection$18(ConnectionApiController.java:261)","\tat io.airbyte.server.apis.ApiHelper.execute(ApiHelper.java:28)","\t... 13 more"],"rootCauseExceptionClassName":"java.lang.Class","rootCauseExceptionStack":["io.airbyte.config.persistence.ConfigNotFoundException: config type: STANDARD_SYNC id: 2138cf75-52e3-405e-bbab-4df7e358c918","\tat io.airbyte.config.persistence.ConfigRepository.getStandardSync(ConfigRepository.java:988)","\tat io.airbyte.commons.server.handlers.SchedulerHandler.submitManualSyncToWorker(SchedulerHandler.java:798)","\tat io.airbyte.commons.server.handlers.SchedulerHandler.syncConnection(SchedulerHandler.java:602)","\tat io.airbyte.server.apis.ConnectionApiController.lambda$syncConnection$18(ConnectionApiController.java:261)","\tat io.airbyte.server.apis.ApiHelper.execute(ApiHelper.java:28)","\tat io.airbyte.server.apis.ConnectionApiController.syncConnection(ConnectionApiController.java:261)","\tat io.airbyte.server.apis.$ConnectionApiController$Definition$Exec.dispatch(Unknown Source)","\tat io.micronaut.context.AbstractExecutableMethodsDefinition$DispatchedExecutableMethod.invokeUnsafe(AbstractExecutableMethodsDefinition.java:461)","\tat io.micronaut.context.DefaultBeanContext$BeanContextUnsafeExecutionHandle.invokeUnsafe(DefaultBeanContext.java:4325)","\tat io.micronaut.web.router.AbstractRouteMatch.execute(AbstractRouteMatch.java:271)","\tat io.micronaut.web.router.DefaultUriRouteMatch.execute(DefaultUriRouteMatch.java:39)","\tat io.micronaut.http.server.RouteExecutor.executeRouteAndConvertBody(RouteExecutor.java:490)","\tat io.micronaut.http.server.RouteExecutor.lambda$callRoute$6(RouteExecutor.java:467)","\tat io.micronaut.core.execution.ExecutionFlow.lambda$async$1(ExecutionFlow.java:87)","\tat io.micronaut.core.propagation.PropagatedContext.lambda$wrap$3(PropagatedContext.java:211)","\tat java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)","\tat java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)","\tat java.base/java.lang.Thread.run(Thread.java:1583)"]}
+[2024-08-03T10:53:13.576+0700] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-08-03T10:53:13.579+0700] {taskinstance.py:2905} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/providers/http/hooks/http.py", line 198, in check_response
+    response.raise_for_status()
+  File "/usr/local/lib/python3.10/dist-packages/requests/models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: http://localhost:8000/api/v1/connections/sync
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/taskinstance.py", line 465, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/taskinstance.py", line 432, in _execute_callable
+    return execute_callable(context=context, **execute_callable_kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/baseoperator.py", line 401, in wrapper
+    return func(self, *args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/providers/airbyte/operators/airbyte.py", line 86, in execute
+    job_object = hook.submit_sync_connection(connection_id=self.connection_id)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/providers/airbyte/hooks/airbyte.py", line 185, in submit_sync_connection
+    return self.run(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/providers/http/hooks/http.py", line 188, in run
+    return self.run_and_check(session, prepped_request, extra_options)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/providers/http/hooks/http.py", line 239, in run_and_check
+    self.check_response(response)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/providers/http/hooks/http.py", line 202, in check_response
+    raise AirflowException(str(response.status_code) + ":" + response.reason)
+airflow.exceptions.AirflowException: 404:Not Found
+[2024-08-03T10:53:13.581+0700] {taskinstance.py:1206} INFO - Marking task as UP_FOR_RETRY. dag_id=data_pipeline_supermarket_2, task_id=airbyte_trigger_sync_1, run_id=manual__2024-08-03T03:53:07.089285+00:00, execution_date=20240803T035307, start_date=20240803T035313, end_date=20240803T035313
+[2024-08-03T10:53:13.602+0700] {standard_task_runner.py:110} ERROR - Failed to execute job 176 for task airbyte_trigger_sync_1 (404:Not Found; 21307)
+[2024-08-03T10:53:13.614+0700] {local_task_job_runner.py:243} INFO - Task exited with return code 1
+[2024-08-03T10:53:13.623+0700] {logging_mixin.py:188} WARNING - /usr/local/lib/python3.10/dist-packages/airflow/models/baseoperator.py:1297 AirflowProviderDeprecationWarning: Call to deprecated class PostgresOperator. (Please use `airflow.providers.common.sql.operators.sql.SQLExecuteQueryOperator`.Also, you can provide `hook_params={'schema': <database>}`.)
+[2024-08-03T10:53:13.636+0700] {taskinstance.py:3503} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-08-03T10:53:13.637+0700] {local_task_job_runner.py:222} INFO - ::endgroup::

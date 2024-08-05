@@ -1,0 +1,59 @@
+[2024-08-02T14:13:04.863+0700] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-08-02T14:13:04.884+0700] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: data_pipeline_supermarket_2.dbt_run scheduled__2024-08-01T00:00:00+00:00 [queued]>
+[2024-08-02T14:13:04.896+0700] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: data_pipeline_supermarket_2.dbt_run scheduled__2024-08-01T00:00:00+00:00 [queued]>
+[2024-08-02T14:13:04.896+0700] {taskinstance.py:2306} INFO - Starting attempt 1 of 2
+[2024-08-02T14:13:04.922+0700] {taskinstance.py:2330} INFO - Executing <Task(BashOperator): dbt_run> on 2024-08-01 00:00:00+00:00
+[2024-08-02T14:13:04.925+0700] {standard_task_runner.py:64} INFO - Started process 11822 to run task
+[2024-08-02T14:13:04.930+0700] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'data_pipeline_supermarket_2', 'dbt_run', 'scheduled__2024-08-01T00:00:00+00:00', '--job-id', '117', '--raw', '--subdir', 'DAGS_FOLDER/data_pipeline_supermarket_2.py', '--cfg-path', '/tmp/tmp50_p07_5']
+[2024-08-02T14:13:04.933+0700] {standard_task_runner.py:91} INFO - Job 117: Subtask dbt_run
+[2024-08-02T14:13:04.981+0700] {task_command.py:426} INFO - Running <TaskInstance: data_pipeline_supermarket_2.dbt_run scheduled__2024-08-01T00:00:00+00:00 [running]> on host DESKTOP-RHVHV7A.
+[2024-08-02T14:13:05.111+0700] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='data_pipeline_supermarket_2' AIRFLOW_CTX_TASK_ID='dbt_run' AIRFLOW_CTX_EXECUTION_DATE='2024-08-01T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-08-01T00:00:00+00:00'
+[2024-08-02T14:13:05.112+0700] {taskinstance.py:430} INFO - ::endgroup::
+[2024-08-02T14:13:05.140+0700] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2024-08-02T14:13:05.141+0700] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'cd /root/project/dbt_supermarket && dbt run']
+[2024-08-02T14:13:05.149+0700] {subprocess.py:86} INFO - Output:
+[2024-08-02T14:13:08.142+0700] {subprocess.py:93} INFO - [0m07:13:08  Running with dbt=1.8.4
+[2024-08-02T14:13:08.582+0700] {subprocess.py:93} INFO - [0m07:13:08  Registered adapter: postgres=1.8.2
+[2024-08-02T14:13:09.121+0700] {subprocess.py:93} INFO - [0m07:13:09  Unable to do partial parsing because profile has changed
+[2024-08-02T14:13:17.221+0700] {subprocess.py:93} INFO - [0m07:13:17  [[33mWARNING[0m]: Did not find matching node for patch with name 'produstg_supermarket__productscts' in the 'models' section of file 'models/staging/supermarket/schema.yml'
+[2024-08-02T14:13:17.367+0700] {subprocess.py:93} INFO - [0m07:13:17  [[33mWARNING[0m]: Test 'test.dbt_supermarket.unique_produstg_supermarket__productscts_product_id.dc28619059' (models/staging/supermarket/schema.yml) depends on a node named 'produstg_supermarket__productscts' in package '' which was not found
+[2024-08-02T14:13:17.368+0700] {subprocess.py:93} INFO - [0m07:13:17  [[33mWARNING[0m]: Test 'test.dbt_supermarket.not_null_produstg_supermarket__productscts_product_id.7a75bb0e01' (models/staging/supermarket/schema.yml) depends on a node named 'produstg_supermarket__productscts' in package '' which was not found
+[2024-08-02T14:13:17.370+0700] {subprocess.py:93} INFO - [0m07:13:17  [[33mWARNING[0m]: Test 'test.dbt_supermarket.unique_produstg_supermarket__productscts_product_name.188ee53bc5' (models/staging/supermarket/schema.yml) depends on a node named 'produstg_supermarket__productscts' in package '' which was not found
+[2024-08-02T14:13:17.372+0700] {subprocess.py:93} INFO - [0m07:13:17  [[33mWARNING[0m]: Test 'test.dbt_supermarket.not_null_produstg_supermarket__productscts_product_name.9388c7ad3e' (models/staging/supermarket/schema.yml) depends on a node named 'produstg_supermarket__productscts' in package '' which was not found
+[2024-08-02T14:13:17.373+0700] {subprocess.py:93} INFO - [0m07:13:17  [[33mWARNING[0m]: Test 'test.dbt_supermarket.not_null_produstg_supermarket__productscts_aisle_id.e7ea1a5902' (models/staging/supermarket/schema.yml) depends on a node named 'produstg_supermarket__productscts' in package '' which was not found
+[2024-08-02T14:13:17.375+0700] {subprocess.py:93} INFO - [0m07:13:17  [[33mWARNING[0m]: Test 'test.dbt_supermarket.not_null_produstg_supermarket__productscts_department_id.0b91d2a0d5' (models/staging/supermarket/schema.yml) depends on a node named 'produstg_supermarket__productscts' in package '' which was not found
+[2024-08-02T14:13:17.802+0700] {subprocess.py:93} INFO - [0m07:13:17  Found 9 models, 1 analysis, 5 seeds, 14 data tests, 5 sources, 820 macros
+[2024-08-02T14:13:17.807+0700] {subprocess.py:93} INFO - [0m07:13:17
+[2024-08-02T14:13:18.203+0700] {subprocess.py:93} INFO - [0m07:13:18  Concurrency: 5 threads (target='dev')
+[2024-08-02T14:13:18.205+0700] {subprocess.py:93} INFO - [0m07:13:18
+[2024-08-02T14:13:18.214+0700] {subprocess.py:93} INFO - [0m07:13:18  1 of 9 START sql view model supermarket.stg_supermarket__aisles ................ [RUN]
+[2024-08-02T14:13:18.215+0700] {subprocess.py:93} INFO - [0m07:13:18  2 of 9 START sql view model supermarket.stg_supermarket__departments ........... [RUN]
+[2024-08-02T14:13:18.216+0700] {subprocess.py:93} INFO - [0m07:13:18  3 of 9 START sql view model supermarket.stg_supermarket__order_products ........ [RUN]
+[2024-08-02T14:13:18.218+0700] {subprocess.py:93} INFO - [0m07:13:18  4 of 9 START sql view model supermarket.stg_supermarket__orders_small_version .. [RUN]
+[2024-08-02T14:13:18.219+0700] {subprocess.py:93} INFO - [0m07:13:18  5 of 9 START sql view model supermarket.stg_supermarket__products .............. [RUN]
+[2024-08-02T14:13:18.694+0700] {subprocess.py:93} INFO - [0m07:13:18  5 of 9 OK created sql view model supermarket.stg_supermarket__products ......... [[32mCREATE VIEW[0m in 0.46s]
+[2024-08-02T14:13:18.698+0700] {subprocess.py:93} INFO - [0m07:13:18  2 of 9 OK created sql view model supermarket.stg_supermarket__departments ...... [[32mCREATE VIEW[0m in 0.47s]
+[2024-08-02T14:13:18.705+0700] {subprocess.py:93} INFO - [0m07:13:18  3 of 9 OK created sql view model supermarket.stg_supermarket__order_products ... [[32mCREATE VIEW[0m in 0.47s]
+[2024-08-02T14:13:18.708+0700] {subprocess.py:93} INFO - [0m07:13:18  4 of 9 OK created sql view model supermarket.stg_supermarket__orders_small_version  [[32mCREATE VIEW[0m in 0.47s]
+[2024-08-02T14:13:18.709+0700] {subprocess.py:93} INFO - [0m07:13:18  1 of 9 OK created sql view model supermarket.stg_supermarket__aisles ........... [[32mCREATE VIEW[0m in 0.48s]
+[2024-08-02T14:13:18.717+0700] {subprocess.py:93} INFO - [0m07:13:18  6 of 9 START sql table model supermarket.dim_products .......................... [RUN]
+[2024-08-02T14:13:18.720+0700] {subprocess.py:93} INFO - [0m07:13:18  7 of 9 START sql table model supermarket.dim_departments ....................... [RUN]
+[2024-08-02T14:13:18.727+0700] {subprocess.py:93} INFO - [0m07:13:18  8 of 9 START sql table model supermarket.fct_user_orders ....................... [RUN]
+[2024-08-02T14:13:18.728+0700] {subprocess.py:93} INFO - [0m07:13:18  9 of 9 START sql table model supermarket.dim_aisles ............................ [RUN]
+[2024-08-02T14:13:19.236+0700] {subprocess.py:93} INFO - [0m07:13:19  9 of 9 OK created sql table model supermarket.dim_aisles ....................... [[32mSELECT 134[0m in 0.49s]
+[2024-08-02T14:13:19.270+0700] {subprocess.py:93} INFO - [0m07:13:19  6 of 9 OK created sql table model supermarket.dim_products ..................... [[32mSELECT 49688[0m in 0.53s]
+[2024-08-02T14:13:19.275+0700] {subprocess.py:93} INFO - [0m07:13:19  7 of 9 OK created sql table model supermarket.dim_departments .................. [[32mSELECT 21[0m in 0.54s]
+[2024-08-02T14:13:19.862+0700] {subprocess.py:93} INFO - [0m07:13:19  8 of 9 OK created sql table model supermarket.fct_user_orders .................. [[32mSELECT 139003[0m in 1.13s]
+[2024-08-02T14:13:19.919+0700] {subprocess.py:93} INFO - [0m07:13:19
+[2024-08-02T14:13:19.921+0700] {subprocess.py:93} INFO - [0m07:13:19  Finished running 5 view models, 4 table models in 0 hours 0 minutes and 2.11 seconds (2.11s).
+[2024-08-02T14:13:20.003+0700] {subprocess.py:93} INFO - [0m07:13:20
+[2024-08-02T14:13:20.004+0700] {subprocess.py:93} INFO - [0m07:13:20  [32mCompleted successfully[0m
+[2024-08-02T14:13:20.006+0700] {subprocess.py:93} INFO - [0m07:13:20
+[2024-08-02T14:13:20.007+0700] {subprocess.py:93} INFO - [0m07:13:20  Done. PASS=9 WARN=0 ERROR=0 SKIP=0 TOTAL=9
+[2024-08-02T14:13:22.371+0700] {subprocess.py:97} INFO - Command exited with return code 0
+[2024-08-02T14:13:22.373+0700] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-08-02T14:13:22.402+0700] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=data_pipeline_supermarket_2, task_id=dbt_run, run_id=scheduled__2024-08-01T00:00:00+00:00, execution_date=20240801T000000, start_date=20240802T071304, end_date=20240802T071322
+[2024-08-02T14:13:22.432+0700] {local_task_job_runner.py:243} INFO - Task exited with return code 0
+[2024-08-02T14:13:22.439+0700] {logging_mixin.py:188} WARNING - /usr/local/lib/python3.10/dist-packages/airflow/models/baseoperator.py:1297 AirflowProviderDeprecationWarning: Call to deprecated class PostgresOperator. (Please use `airflow.providers.common.sql.operators.sql.SQLExecuteQueryOperator`.Also, you can provide `hook_params={'schema': <database>}`.)
+[2024-08-02T14:13:22.452+0700] {taskinstance.py:3503} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2024-08-02T14:13:22.464+0700] {local_task_job_runner.py:222} INFO - ::endgroup::

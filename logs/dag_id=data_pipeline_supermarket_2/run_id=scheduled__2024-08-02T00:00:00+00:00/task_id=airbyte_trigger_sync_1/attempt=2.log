@@ -1,0 +1,3 @@
+[2024-08-03T10:49:41.217+0700] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-08-03T10:49:41.223+0700] {taskinstance.py:2066} INFO - Dependencies not met for <TaskInstance: data_pipeline_supermarket_2.airbyte_trigger_sync_1 scheduled__2024-08-02T00:00:00+00:00 [skipped]>, dependency 'Task Instance State' FAILED: Task is in the 'skipped' state.
+[2024-08-03T10:49:41.229+0700] {local_task_job_runner.py:163} INFO - Task is not able to be run

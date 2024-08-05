@@ -1,0 +1,19 @@
+[2024-08-02T13:50:17.616+0700] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-08-02T13:50:17.626+0700] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: data_pipeline_supermarket.airbyte_trigger_sync_0 scheduled__2024-08-01T00:00:00+00:00 [queued]>
+[2024-08-02T13:50:17.631+0700] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: data_pipeline_supermarket.airbyte_trigger_sync_0 scheduled__2024-08-01T00:00:00+00:00 [queued]>
+[2024-08-02T13:50:17.631+0700] {taskinstance.py:2306} INFO - Starting attempt 2 of 2
+[2024-08-02T13:50:17.657+0700] {taskinstance.py:2330} INFO - Executing <Task(AirbyteTriggerSyncOperator): airbyte_trigger_sync_0> on 2024-08-01 00:00:00+00:00
+[2024-08-02T13:50:17.661+0700] {standard_task_runner.py:64} INFO - Started process 5682 to run task
+[2024-08-02T13:50:17.667+0700] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'data_pipeline_supermarket', 'airbyte_trigger_sync_0', 'scheduled__2024-08-01T00:00:00+00:00', '--job-id', '90', '--raw', '--subdir', 'DAGS_FOLDER/data_pipeline_supermarket.py', '--cfg-path', '/tmp/tmpw_r87erg']
+[2024-08-02T13:50:17.673+0700] {standard_task_runner.py:91} INFO - Job 90: Subtask airbyte_trigger_sync_0
+[2024-08-02T13:50:17.738+0700] {task_command.py:426} INFO - Running <TaskInstance: data_pipeline_supermarket.airbyte_trigger_sync_0 scheduled__2024-08-01T00:00:00+00:00 [running]> on host DESKTOP-RHVHV7A.
+[2024-08-02T13:50:17.816+0700] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='data_pipeline_supermarket' AIRFLOW_CTX_TASK_ID='airbyte_trigger_sync_0' AIRFLOW_CTX_EXECUTION_DATE='2024-08-01T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-08-01T00:00:00+00:00'
+[2024-08-02T13:50:17.816+0700] {taskinstance.py:430} INFO - ::endgroup::
+[2024-08-02T13:50:17.847+0700] {base.py:84} INFO - Using connection ID 'airflow-call-to-airbyte-example' for task execution.
+[2024-08-02T13:50:21.863+0700] {airbyte.py:95} INFO - Job 72 was submitted to Airbyte Server
+[2024-08-02T13:50:21.864+0700] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-08-02T13:50:21.896+0700] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=data_pipeline_supermarket, task_id=airbyte_trigger_sync_0, run_id=scheduled__2024-08-01T00:00:00+00:00, execution_date=20240801T000000, start_date=20240802T065017, end_date=20240802T065021
+[2024-08-02T13:50:21.948+0700] {local_task_job_runner.py:243} INFO - Task exited with return code 0
+[2024-08-02T13:50:21.958+0700] {logging_mixin.py:188} WARNING - /usr/local/lib/python3.10/dist-packages/airflow/models/baseoperator.py:1297 AirflowProviderDeprecationWarning: Call to deprecated class PostgresOperator. (Please use `airflow.providers.common.sql.operators.sql.SQLExecuteQueryOperator`.Also, you can provide `hook_params={'schema': <database>}`.)
+[2024-08-02T13:50:21.977+0700] {taskinstance.py:3503} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2024-08-02T13:50:21.991+0700] {local_task_job_runner.py:222} INFO - ::endgroup::

@@ -1,0 +1,22 @@
+[2024-08-03T16:35:35.408+0700] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-08-03T16:35:35.421+0700] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: data_pipeline_supermarket_2.offload_to_s3_departments manual__2024-08-03T09:35:25.136321+00:00 [queued]>
+[2024-08-03T16:35:35.430+0700] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: data_pipeline_supermarket_2.offload_to_s3_departments manual__2024-08-03T09:35:25.136321+00:00 [queued]>
+[2024-08-03T16:35:35.430+0700] {taskinstance.py:2306} INFO - Starting attempt 1 of 2
+[2024-08-03T16:35:35.456+0700] {taskinstance.py:2330} INFO - Executing <Task(BashOperator): offload_to_s3_departments> on 2024-08-03 09:35:25.136321+00:00
+[2024-08-03T16:35:35.460+0700] {standard_task_runner.py:64} INFO - Started process 10429 to run task
+[2024-08-03T16:35:35.465+0700] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'data_pipeline_supermarket_2', 'offload_to_s3_departments', 'manual__2024-08-03T09:35:25.136321+00:00', '--job-id', '262', '--raw', '--subdir', 'DAGS_FOLDER/data_pipeline_supermarket_2.py', '--cfg-path', '/tmp/tmpz2gjyprm']
+[2024-08-03T16:35:35.466+0700] {standard_task_runner.py:91} INFO - Job 262: Subtask offload_to_s3_departments
+[2024-08-03T16:35:35.512+0700] {task_command.py:426} INFO - Running <TaskInstance: data_pipeline_supermarket_2.offload_to_s3_departments manual__2024-08-03T09:35:25.136321+00:00 [running]> on host DESKTOP-RHVHV7A.
+[2024-08-03T16:35:35.614+0700] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='data_pipeline_supermarket_2' AIRFLOW_CTX_TASK_ID='offload_to_s3_departments' AIRFLOW_CTX_EXECUTION_DATE='2024-08-03T09:35:25.136321+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-08-03T09:35:25.136321+00:00'
+[2024-08-03T16:35:35.615+0700] {taskinstance.py:430} INFO - ::endgroup::
+[2024-08-03T16:35:35.625+0700] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2024-08-03T16:35:35.626+0700] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'aws s3 cp "/mnt/f/AllCode/Data Engineer/raw_data/supermarket/departments.csv" s3://quannm-07252024-demo/raw_data/supermarket/departments.csv']
+[2024-08-03T16:35:35.634+0700] {subprocess.py:86} INFO - Output:
+[2024-08-03T16:35:37.808+0700] {subprocess.py:93} INFO - Completed 270 Bytes/270 Bytes (178 Bytes/s) with 1 file(s) remainingupload: ../../mnt/f/AllCode/Data Engineer/raw_data/supermarket/departments.csv to s3://quannm-07252024-demo/raw_data/supermarket/departments.csv
+[2024-08-03T16:35:37.971+0700] {subprocess.py:97} INFO - Command exited with return code 0
+[2024-08-03T16:35:37.971+0700] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-08-03T16:35:37.996+0700] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=data_pipeline_supermarket_2, task_id=offload_to_s3_departments, run_id=manual__2024-08-03T09:35:25.136321+00:00, execution_date=20240803T093525, start_date=20240803T093535, end_date=20240803T093537
+[2024-08-03T16:35:38.049+0700] {local_task_job_runner.py:243} INFO - Task exited with return code 0
+[2024-08-03T16:35:38.060+0700] {logging_mixin.py:188} WARNING - /usr/local/lib/python3.10/dist-packages/airflow/models/baseoperator.py:1297 AirflowProviderDeprecationWarning: Call to deprecated class PostgresOperator. (Please use `airflow.providers.common.sql.operators.sql.SQLExecuteQueryOperator`.Also, you can provide `hook_params={'schema': <database>}`.)
+[2024-08-03T16:35:38.074+0700] {taskinstance.py:3503} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-08-03T16:35:38.074+0700] {local_task_job_runner.py:222} INFO - ::endgroup::

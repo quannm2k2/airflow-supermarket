@@ -1,0 +1,151 @@
+[2024-08-02T10:16:15.898+0700] {processor.py:161} INFO - Started process (PID=33229) to work on /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:16:15.901+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/data_pipeline_supermarket.py for tasks to queue
+[2024-08-02T10:16:15.922+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:16:15.904+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:16:18.006+0700] {processor.py:840} INFO - DAG(s) 'data_pipeline_supermarket' retrieved from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:16:20.352+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:16:20.284+0700] {override.py:1858} INFO - Created Permission View: can read on DAG:data_pipeline_supermarket
+[2024-08-02T10:16:20.933+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:16:20.881+0700] {override.py:1858} INFO - Created Permission View: can delete on DAG:data_pipeline_supermarket
+[2024-08-02T10:16:21.018+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:16:20.993+0700] {override.py:1858} INFO - Created Permission View: can edit on DAG:data_pipeline_supermarket
+[2024-08-02T10:16:21.022+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:16:21.021+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T10:16:21.114+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:16:21.089+0700] {dag.py:3111} INFO - Creating ORM DAG for data_pipeline_supermarket
+[2024-08-02T10:16:21.195+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:16:21.179+0700] {dag.py:3947} INFO - Setting next_dagrun for data_pipeline_supermarket to 2024-08-01 00:00:00+00:00, run_after=2024-08-02 00:00:00+00:00
+[2024-08-02T10:16:21.766+0700] {processor.py:183} INFO - Processing /root/airflow/dags/data_pipeline_supermarket.py took 5.883 seconds
+[2024-08-02T10:16:53.613+0700] {processor.py:161} INFO - Started process (PID=33529) to work on /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:16:53.664+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/data_pipeline_supermarket.py for tasks to queue
+[2024-08-02T10:16:53.730+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:16:53.696+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:16:56.181+0700] {processor.py:840} INFO - DAG(s) 'data_pipeline_supermarket' retrieved from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:17:12.921+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:17:12.711+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T10:17:27.654+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:17:27.259+0700] {dag.py:3947} INFO - Setting next_dagrun for data_pipeline_supermarket to 2024-08-01 00:00:00+00:00, run_after=2024-08-02 00:00:00+00:00
+[2024-08-02T10:18:12.481+0700] {processor.py:183} INFO - Processing /root/airflow/dags/data_pipeline_supermarket.py took 78.422 seconds
+[2024-08-02T10:19:51.949+0700] {processor.py:161} INFO - Started process (PID=33738) to work on /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:19:51.950+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/data_pipeline_supermarket.py for tasks to queue
+[2024-08-02T10:19:51.951+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:19:51.950+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:19:51.968+0700] {processor.py:840} INFO - DAG(s) 'data_pipeline_supermarket' retrieved from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:19:52.146+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:19:52.146+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T10:19:52.169+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:19:52.168+0700] {dag.py:3947} INFO - Setting next_dagrun for data_pipeline_supermarket to 2024-08-01 00:00:00+00:00, run_after=2024-08-02 00:00:00+00:00
+[2024-08-02T10:19:52.206+0700] {processor.py:183} INFO - Processing /root/airflow/dags/data_pipeline_supermarket.py took 0.261 seconds
+[2024-08-02T10:20:22.484+0700] {processor.py:161} INFO - Started process (PID=33907) to work on /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:20:22.486+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/data_pipeline_supermarket.py for tasks to queue
+[2024-08-02T10:20:22.487+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:20:22.487+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:20:22.510+0700] {processor.py:840} INFO - DAG(s) 'data_pipeline_supermarket' retrieved from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:20:22.544+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:20:22.544+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T10:20:22.576+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:20:22.575+0700] {dag.py:3947} INFO - Setting next_dagrun for data_pipeline_supermarket to 2024-08-01 00:00:00+00:00, run_after=2024-08-02 00:00:00+00:00
+[2024-08-02T10:20:22.611+0700] {processor.py:183} INFO - Processing /root/airflow/dags/data_pipeline_supermarket.py took 0.136 seconds
+[2024-08-02T10:20:53.105+0700] {processor.py:161} INFO - Started process (PID=34044) to work on /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:20:53.106+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/data_pipeline_supermarket.py for tasks to queue
+[2024-08-02T10:20:53.107+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:20:53.107+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:20:53.117+0700] {processor.py:840} INFO - DAG(s) 'data_pipeline_supermarket' retrieved from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:20:53.167+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:20:53.167+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T10:20:53.205+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:20:53.204+0700] {dag.py:3947} INFO - Setting next_dagrun for data_pipeline_supermarket to 2024-08-01 00:00:00+00:00, run_after=2024-08-02 00:00:00+00:00
+[2024-08-02T10:20:53.244+0700] {processor.py:183} INFO - Processing /root/airflow/dags/data_pipeline_supermarket.py took 0.143 seconds
+[2024-08-02T10:27:20.104+0700] {processor.py:161} INFO - Started process (PID=1560) to work on /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:27:20.106+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/data_pipeline_supermarket.py for tasks to queue
+[2024-08-02T10:27:20.107+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:27:20.107+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:27:20.213+0700] {processor.py:840} INFO - DAG(s) 'data_pipeline_supermarket' retrieved from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:27:20.232+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:27:20.232+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T10:27:20.246+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:27:20.246+0700] {dag.py:3947} INFO - Setting next_dagrun for data_pipeline_supermarket to 2024-08-01 00:00:00+00:00, run_after=2024-08-02 00:00:00+00:00
+[2024-08-02T10:27:20.274+0700] {processor.py:183} INFO - Processing /root/airflow/dags/data_pipeline_supermarket.py took 0.176 seconds
+[2024-08-02T10:27:50.496+0700] {processor.py:161} INFO - Started process (PID=1814) to work on /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:27:50.497+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/data_pipeline_supermarket.py for tasks to queue
+[2024-08-02T10:27:50.499+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:27:50.498+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:27:50.509+0700] {processor.py:840} INFO - DAG(s) 'data_pipeline_supermarket' retrieved from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:27:50.528+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:27:50.527+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T10:27:50.544+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:27:50.544+0700] {dag.py:3947} INFO - Setting next_dagrun for data_pipeline_supermarket to 2024-08-01 00:00:00+00:00, run_after=2024-08-02 00:00:00+00:00
+[2024-08-02T10:27:50.573+0700] {processor.py:183} INFO - Processing /root/airflow/dags/data_pipeline_supermarket.py took 0.081 seconds
+[2024-08-02T10:28:21.166+0700] {processor.py:161} INFO - Started process (PID=2163) to work on /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:28:21.167+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/data_pipeline_supermarket.py for tasks to queue
+[2024-08-02T10:28:21.168+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:28:21.167+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:28:21.176+0700] {processor.py:840} INFO - DAG(s) 'data_pipeline_supermarket' retrieved from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:28:21.192+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:28:21.192+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T10:28:21.207+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:28:21.207+0700] {dag.py:3947} INFO - Setting next_dagrun for data_pipeline_supermarket to 2024-08-02 00:00:00+00:00, run_after=2024-08-03 00:00:00+00:00
+[2024-08-02T10:28:21.235+0700] {processor.py:183} INFO - Processing /root/airflow/dags/data_pipeline_supermarket.py took 0.073 seconds
+[2024-08-02T10:28:51.287+0700] {processor.py:161} INFO - Started process (PID=2468) to work on /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:28:51.292+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/data_pipeline_supermarket.py for tasks to queue
+[2024-08-02T10:28:51.294+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:28:51.293+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:28:51.306+0700] {processor.py:840} INFO - DAG(s) 'data_pipeline_supermarket' retrieved from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:28:51.323+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:28:51.323+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T10:28:51.341+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:28:51.340+0700] {dag.py:3947} INFO - Setting next_dagrun for data_pipeline_supermarket to 2024-08-02 00:00:00+00:00, run_after=2024-08-03 00:00:00+00:00
+[2024-08-02T10:28:51.372+0700] {processor.py:183} INFO - Processing /root/airflow/dags/data_pipeline_supermarket.py took 0.090 seconds
+[2024-08-02T10:29:21.444+0700] {processor.py:161} INFO - Started process (PID=2989) to work on /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:29:21.449+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/data_pipeline_supermarket.py for tasks to queue
+[2024-08-02T10:29:21.455+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:29:21.453+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:29:21.486+0700] {processor.py:840} INFO - DAG(s) 'data_pipeline_supermarket' retrieved from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:29:21.524+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:29:21.524+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T10:29:21.555+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:29:21.555+0700] {dag.py:3947} INFO - Setting next_dagrun for data_pipeline_supermarket to 2024-08-02 00:00:00+00:00, run_after=2024-08-03 00:00:00+00:00
+[2024-08-02T10:29:21.589+0700] {processor.py:183} INFO - Processing /root/airflow/dags/data_pipeline_supermarket.py took 0.162 seconds
+[2024-08-02T10:29:51.681+0700] {processor.py:161} INFO - Started process (PID=3583) to work on /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:29:51.684+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/data_pipeline_supermarket.py for tasks to queue
+[2024-08-02T10:29:51.695+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:29:51.694+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:29:51.770+0700] {processor.py:840} INFO - DAG(s) 'data_pipeline_supermarket' retrieved from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:29:51.821+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:29:51.821+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T10:29:51.846+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:29:51.846+0700] {dag.py:3947} INFO - Setting next_dagrun for data_pipeline_supermarket to 2024-08-02 00:00:00+00:00, run_after=2024-08-03 00:00:00+00:00
+[2024-08-02T10:29:51.881+0700] {processor.py:183} INFO - Processing /root/airflow/dags/data_pipeline_supermarket.py took 0.229 seconds
+[2024-08-02T10:30:23.001+0700] {processor.py:161} INFO - Started process (PID=4005) to work on /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:30:23.006+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/data_pipeline_supermarket.py for tasks to queue
+[2024-08-02T10:30:23.016+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:30:23.010+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:30:23.069+0700] {processor.py:840} INFO - DAG(s) 'data_pipeline_supermarket' retrieved from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:30:23.172+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:30:23.172+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T10:30:23.226+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:30:23.226+0700] {dag.py:3947} INFO - Setting next_dagrun for data_pipeline_supermarket to 2024-08-02 00:00:00+00:00, run_after=2024-08-03 00:00:00+00:00
+[2024-08-02T10:30:23.262+0700] {processor.py:183} INFO - Processing /root/airflow/dags/data_pipeline_supermarket.py took 0.294 seconds
+[2024-08-02T10:31:53.682+0700] {processor.py:161} INFO - Started process (PID=5192) to work on /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:31:53.684+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/data_pipeline_supermarket.py for tasks to queue
+[2024-08-02T10:31:53.689+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:31:53.686+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:31:53.739+0700] {processor.py:840} INFO - DAG(s) 'data_pipeline_supermarket' retrieved from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T10:31:53.812+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:31:53.811+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T10:31:53.856+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:31:53.855+0700] {dag.py:3947} INFO - Setting next_dagrun for data_pipeline_supermarket to 2024-08-02 00:00:00+00:00, run_after=2024-08-03 00:00:00+00:00
+[2024-08-02T10:31:53.901+0700] {processor.py:183} INFO - Processing /root/airflow/dags/data_pipeline_supermarket.py took 0.248 seconds
+[2024-08-02T13:50:15.516+0700] {processor.py:161} INFO - Started process (PID=5672) to work on /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T13:50:15.518+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/data_pipeline_supermarket.py for tasks to queue
+[2024-08-02T13:50:15.521+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:50:15.520+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T13:50:15.734+0700] {processor.py:840} INFO - DAG(s) 'data_pipeline_supermarket' retrieved from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T13:50:15.755+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:50:15.755+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T13:50:15.773+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:50:15.772+0700] {dag.py:3947} INFO - Setting next_dagrun for data_pipeline_supermarket to 2024-08-02 00:00:00+00:00, run_after=2024-08-03 00:00:00+00:00
+[2024-08-02T13:50:15.806+0700] {processor.py:183} INFO - Processing /root/airflow/dags/data_pipeline_supermarket.py took 0.303 seconds
+[2024-08-02T13:51:57.267+0700] {processor.py:161} INFO - Started process (PID=6107) to work on /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T13:51:57.269+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/data_pipeline_supermarket.py for tasks to queue
+[2024-08-02T13:51:57.273+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:51:57.270+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T13:51:57.318+0700] {processor.py:840} INFO - DAG(s) 'data_pipeline_supermarket' retrieved from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T13:51:57.355+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:51:57.355+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T13:51:57.383+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:51:57.382+0700] {dag.py:3947} INFO - Setting next_dagrun for data_pipeline_supermarket to 2024-08-02 00:00:00+00:00, run_after=2024-08-03 00:00:00+00:00
+[2024-08-02T13:51:57.417+0700] {processor.py:183} INFO - Processing /root/airflow/dags/data_pipeline_supermarket.py took 0.156 seconds
+[2024-08-02T13:53:46.358+0700] {processor.py:161} INFO - Started process (PID=6349) to work on /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T13:53:46.359+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/data_pipeline_supermarket.py for tasks to queue
+[2024-08-02T13:53:46.364+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:53:46.362+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T13:53:46.407+0700] {processor.py:840} INFO - DAG(s) 'data_pipeline_supermarket' retrieved from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T13:53:46.473+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:53:46.473+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T13:53:46.506+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:53:46.505+0700] {dag.py:3947} INFO - Setting next_dagrun for data_pipeline_supermarket to 2024-08-02 00:00:00+00:00, run_after=2024-08-03 00:00:00+00:00
+[2024-08-02T13:53:46.547+0700] {processor.py:183} INFO - Processing /root/airflow/dags/data_pipeline_supermarket.py took 0.193 seconds
+[2024-08-02T13:54:17.556+0700] {processor.py:161} INFO - Started process (PID=6497) to work on /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T13:54:17.561+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/data_pipeline_supermarket.py for tasks to queue
+[2024-08-02T13:54:17.570+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:54:17.564+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T13:54:17.601+0700] {processor.py:840} INFO - DAG(s) 'data_pipeline_supermarket' retrieved from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T13:54:17.679+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:54:17.679+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T13:54:17.732+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:54:17.732+0700] {dag.py:3947} INFO - Setting next_dagrun for data_pipeline_supermarket to 2024-08-02 00:00:00+00:00, run_after=2024-08-03 00:00:00+00:00
+[2024-08-02T13:54:17.832+0700] {processor.py:183} INFO - Processing /root/airflow/dags/data_pipeline_supermarket.py took 0.290 seconds
+[2024-08-02T13:54:48.573+0700] {processor.py:161} INFO - Started process (PID=6646) to work on /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T13:54:48.575+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/data_pipeline_supermarket.py for tasks to queue
+[2024-08-02T13:54:48.576+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:54:48.576+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T13:54:48.586+0700] {processor.py:840} INFO - DAG(s) 'data_pipeline_supermarket' retrieved from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T13:54:48.614+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:54:48.614+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T13:54:48.638+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:54:48.638+0700] {dag.py:3947} INFO - Setting next_dagrun for data_pipeline_supermarket to 2024-08-02 00:00:00+00:00, run_after=2024-08-03 00:00:00+00:00
+[2024-08-02T13:54:48.699+0700] {processor.py:183} INFO - Processing /root/airflow/dags/data_pipeline_supermarket.py took 0.134 seconds
+[2024-08-02T13:55:18.842+0700] {processor.py:161} INFO - Started process (PID=6793) to work on /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T13:55:18.844+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/data_pipeline_supermarket.py for tasks to queue
+[2024-08-02T13:55:18.849+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:55:18.845+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T13:55:18.862+0700] {processor.py:840} INFO - DAG(s) 'data_pipeline_supermarket' retrieved from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T13:55:18.893+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:55:18.893+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T13:55:18.910+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:55:18.910+0700] {dag.py:3947} INFO - Setting next_dagrun for data_pipeline_supermarket to 2024-08-02 00:00:00+00:00, run_after=2024-08-03 00:00:00+00:00
+[2024-08-02T13:55:18.941+0700] {processor.py:183} INFO - Processing /root/airflow/dags/data_pipeline_supermarket.py took 0.107 seconds
+[2024-08-02T13:55:49.071+0700] {processor.py:161} INFO - Started process (PID=6924) to work on /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T13:55:49.073+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/data_pipeline_supermarket.py for tasks to queue
+[2024-08-02T13:55:49.074+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:55:49.073+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T13:55:49.081+0700] {processor.py:840} INFO - DAG(s) 'data_pipeline_supermarket' retrieved from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T13:55:49.099+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:55:49.099+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T13:55:49.113+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:55:49.113+0700] {dag.py:3947} INFO - Setting next_dagrun for data_pipeline_supermarket to 2024-08-02 00:00:00+00:00, run_after=2024-08-03 00:00:00+00:00
+[2024-08-02T13:55:49.140+0700] {processor.py:183} INFO - Processing /root/airflow/dags/data_pipeline_supermarket.py took 0.074 seconds
+[2024-08-02T13:56:19.353+0700] {processor.py:161} INFO - Started process (PID=7055) to work on /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T13:56:19.354+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/data_pipeline_supermarket.py for tasks to queue
+[2024-08-02T13:56:19.354+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:56:19.354+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T13:56:19.361+0700] {processor.py:840} INFO - DAG(s) 'data_pipeline_supermarket' retrieved from /root/airflow/dags/data_pipeline_supermarket.py
+[2024-08-02T13:56:19.379+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:56:19.379+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T13:56:19.393+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:56:19.392+0700] {dag.py:3947} INFO - Setting next_dagrun for data_pipeline_supermarket to 2024-08-02 00:00:00+00:00, run_after=2024-08-03 00:00:00+00:00
+[2024-08-02T13:56:19.421+0700] {processor.py:183} INFO - Processing /root/airflow/dags/data_pipeline_supermarket.py took 0.072 seconds

@@ -1,0 +1,484 @@
+[2024-08-02T10:16:25.692+0700] {processor.py:161} INFO - Started process (PID=33281) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T10:16:25.700+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T10:16:25.707+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:16:25.701+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T10:16:26.124+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T10:16:27.011+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:16:26.981+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T10:16:27.134+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:16:27.118+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T10:16:27.412+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 1.733 seconds
+[2024-08-02T10:19:41.969+0700] {processor.py:161} INFO - Started process (PID=33686) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T10:19:41.978+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T10:19:41.990+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:19:41.979+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T10:19:42.089+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T10:19:42.263+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:19:42.262+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T10:19:42.386+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:19:42.385+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T10:19:42.525+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.616 seconds
+[2024-08-02T10:20:13.233+0700] {processor.py:161} INFO - Started process (PID=33861) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T10:20:13.239+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T10:20:13.241+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:20:13.240+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T10:20:13.273+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T10:20:13.342+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:20:13.342+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T10:20:13.369+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:20:13.368+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T10:20:13.421+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.210 seconds
+[2024-08-02T10:20:43.722+0700] {processor.py:161} INFO - Started process (PID=33999) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T10:20:43.724+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T10:20:43.725+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:20:43.725+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T10:20:43.731+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T10:20:43.744+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:20:43.744+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T10:20:43.753+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:20:43.753+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T10:20:43.792+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.074 seconds
+[2024-08-02T10:21:14.316+0700] {processor.py:161} INFO - Started process (PID=34132) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T10:21:14.318+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T10:21:14.319+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:21:14.319+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T10:21:14.325+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T10:21:14.356+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:21:14.356+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T10:21:14.365+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:21:14.365+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T10:21:14.396+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.084 seconds
+[2024-08-02T10:27:22.592+0700] {processor.py:161} INFO - Started process (PID=1597) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T10:27:22.593+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T10:27:22.594+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:27:22.594+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T10:27:22.684+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T10:27:22.696+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:27:22.696+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T10:27:22.704+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:27:22.704+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T10:27:22.731+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.143 seconds
+[2024-08-02T10:27:53.812+0700] {processor.py:161} INFO - Started process (PID=1840) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T10:27:53.813+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T10:27:53.814+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:27:53.814+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T10:27:53.819+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T10:27:53.831+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:27:53.831+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T10:27:53.839+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:27:53.839+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T10:27:53.865+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.058 seconds
+[2024-08-02T10:28:24.558+0700] {processor.py:161} INFO - Started process (PID=2214) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T10:28:24.561+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T10:28:24.563+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:28:24.562+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T10:28:24.568+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T10:28:24.582+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:28:24.582+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T10:28:24.591+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:28:24.591+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T10:28:24.620+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.065 seconds
+[2024-08-02T10:28:55.086+0700] {processor.py:161} INFO - Started process (PID=2528) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T10:28:55.089+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T10:28:55.090+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:28:55.090+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T10:28:55.097+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T10:28:55.111+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:28:55.111+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T10:28:55.122+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:28:55.122+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T10:28:55.153+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.070 seconds
+[2024-08-02T10:29:25.452+0700] {processor.py:161} INFO - Started process (PID=3188) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T10:29:25.454+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T10:29:25.459+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:29:25.457+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T10:29:25.475+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T10:29:25.493+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:29:25.492+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T10:29:25.503+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:29:25.502+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T10:29:25.535+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.122 seconds
+[2024-08-02T10:29:56.021+0700] {processor.py:161} INFO - Started process (PID=3630) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T10:29:56.023+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T10:29:56.025+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:29:56.024+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T10:29:56.034+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T10:29:56.056+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:29:56.056+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T10:29:56.070+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:29:56.069+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T10:29:56.145+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.130 seconds
+[2024-08-02T10:30:27.626+0700] {processor.py:161} INFO - Started process (PID=4068) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T10:30:27.627+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T10:30:27.629+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:30:27.629+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T10:30:27.656+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T10:30:27.685+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:30:27.685+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T10:30:27.697+0700] {logging_mixin.py:188} INFO - [2024-08-02T10:30:27.697+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T10:30:27.724+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.104 seconds
+[2024-08-02T13:53:54.765+0700] {processor.py:161} INFO - Started process (PID=6391) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T13:53:54.768+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T13:53:54.769+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:53:54.768+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T13:53:54.779+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T13:53:54.807+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:53:54.806+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T13:53:54.827+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:53:54.827+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T13:53:54.872+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.114 seconds
+[2024-08-02T13:54:25.625+0700] {processor.py:161} INFO - Started process (PID=6531) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T13:54:25.627+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T13:54:25.628+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:54:25.627+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T13:54:25.634+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T13:54:25.652+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:54:25.651+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T13:54:25.660+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:54:25.660+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T13:54:25.690+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.069 seconds
+[2024-08-02T13:54:56.274+0700] {processor.py:161} INFO - Started process (PID=6678) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T13:54:56.275+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T13:54:56.276+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:54:56.276+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T13:54:56.284+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T13:54:56.307+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:54:56.307+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T13:54:56.320+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:54:56.320+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T13:54:56.358+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.088 seconds
+[2024-08-02T13:55:26.939+0700] {processor.py:161} INFO - Started process (PID=6827) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T13:55:26.940+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T13:55:26.941+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:55:26.941+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T13:55:26.951+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T13:55:26.971+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:55:26.971+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T13:55:26.979+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:55:26.979+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T13:55:27.007+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.072 seconds
+[2024-08-02T13:55:57.466+0700] {processor.py:161} INFO - Started process (PID=6959) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T13:55:57.468+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T13:55:57.469+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:55:57.469+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T13:55:57.474+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T13:55:57.487+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:55:57.487+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T13:55:57.494+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:55:57.494+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T13:55:57.521+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.059 seconds
+[2024-08-02T13:56:28.052+0700] {processor.py:161} INFO - Started process (PID=7092) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T13:56:28.053+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T13:56:28.054+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:56:28.053+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T13:56:28.058+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T13:56:28.072+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:56:28.071+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T13:56:28.079+0700] {logging_mixin.py:188} INFO - [2024-08-02T13:56:28.079+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T13:56:28.107+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.059 seconds
+[2024-08-02T14:07:49.144+0700] {processor.py:161} INFO - Started process (PID=10465) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:07:49.146+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:07:49.147+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:07:49.147+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:07:49.153+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:07:49.171+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:07:49.171+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:07:49.179+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:07:49.179+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:07:49.208+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.070 seconds
+[2024-08-02T14:08:20.241+0700] {processor.py:161} INFO - Started process (PID=10604) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:08:20.242+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:08:20.244+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:08:20.243+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:08:20.252+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:08:20.279+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:08:20.279+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:08:20.289+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:08:20.288+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:08:20.319+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.082 seconds
+[2024-08-02T14:08:50.747+0700] {processor.py:161} INFO - Started process (PID=10743) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:08:50.748+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:08:50.749+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:08:50.749+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:08:50.755+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:08:50.767+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:08:50.767+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:08:50.776+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:08:50.775+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:08:50.805+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.062 seconds
+[2024-08-02T14:09:21.172+0700] {processor.py:161} INFO - Started process (PID=10879) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:09:21.175+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:09:21.176+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:09:21.176+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:09:21.182+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:09:21.196+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:09:21.196+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:09:21.204+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:09:21.204+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:09:21.233+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.065 seconds
+[2024-08-02T14:20:34.815+0700] {processor.py:161} INFO - Started process (PID=13770) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:20:34.816+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:20:34.817+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:20:34.817+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:20:34.821+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:20:34.834+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:20:34.834+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:20:34.841+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:20:34.841+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:20:34.869+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.058 seconds
+[2024-08-02T14:21:05.236+0700] {processor.py:161} INFO - Started process (PID=13929) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:21:05.237+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:21:05.238+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:21:05.238+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:21:05.242+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:21:05.255+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:21:05.255+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:21:05.262+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:21:05.262+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:21:05.292+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.059 seconds
+[2024-08-02T14:21:35.948+0700] {processor.py:161} INFO - Started process (PID=14071) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:21:35.949+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:21:35.950+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:21:35.950+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:21:35.955+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:21:35.972+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:21:35.972+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:21:35.980+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:21:35.980+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:21:36.024+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.080 seconds
+[2024-08-02T14:22:06.847+0700] {processor.py:161} INFO - Started process (PID=14216) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:22:06.850+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:22:06.851+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:22:06.850+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:22:06.854+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:22:06.869+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:22:06.869+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:22:06.897+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:22:06.896+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:22:06.937+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.095 seconds
+[2024-08-02T14:22:37.363+0700] {processor.py:161} INFO - Started process (PID=14348) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:22:37.364+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:22:37.365+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:22:37.364+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:22:37.368+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:22:37.381+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:22:37.381+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:22:37.388+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:22:37.388+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:22:37.415+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.056 seconds
+[2024-08-02T14:23:07.944+0700] {processor.py:161} INFO - Started process (PID=14481) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:23:07.947+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:23:07.948+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:23:07.948+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:23:07.951+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:23:07.965+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:23:07.964+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:23:07.972+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:23:07.971+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:23:07.998+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.057 seconds
+[2024-08-02T14:23:38.472+0700] {processor.py:161} INFO - Started process (PID=14631) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:23:38.473+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:23:38.474+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:23:38.474+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:23:38.478+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:23:38.492+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:23:38.491+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:23:38.499+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:23:38.499+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:23:38.528+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.060 seconds
+[2024-08-02T14:24:08.946+0700] {processor.py:161} INFO - Started process (PID=14766) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:24:08.947+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:24:08.948+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:24:08.947+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:24:08.951+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:24:08.965+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:24:08.965+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:24:08.975+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:24:08.974+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:24:09.001+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.060 seconds
+[2024-08-02T14:24:39.242+0700] {processor.py:161} INFO - Started process (PID=14898) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:24:39.243+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:24:39.244+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:24:39.244+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:24:39.247+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:24:39.261+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:24:39.261+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:24:39.270+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:24:39.269+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:24:39.300+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.063 seconds
+[2024-08-02T14:25:09.547+0700] {processor.py:161} INFO - Started process (PID=15035) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:25:09.549+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:25:09.550+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:25:09.550+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:25:09.554+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:25:09.567+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:25:09.567+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:25:09.574+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:25:09.574+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:25:09.603+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.060 seconds
+[2024-08-02T14:25:44.132+0700] {processor.py:161} INFO - Started process (PID=15193) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:25:44.135+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:25:44.136+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:25:44.135+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:25:44.139+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:25:44.153+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:25:44.153+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:25:44.161+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:25:44.161+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:25:44.187+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.059 seconds
+[2024-08-02T14:26:14.486+0700] {processor.py:161} INFO - Started process (PID=15329) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:26:14.487+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:26:14.488+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:26:14.487+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:26:14.492+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:26:14.509+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:26:14.508+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:26:14.517+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:26:14.517+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:26:14.548+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.066 seconds
+[2024-08-02T14:26:45.024+0700] {processor.py:161} INFO - Started process (PID=15464) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:26:45.026+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:26:45.027+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:26:45.027+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:26:45.031+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:26:45.045+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:26:45.045+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:26:45.055+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:26:45.054+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:26:45.082+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.062 seconds
+[2024-08-02T14:27:15.621+0700] {processor.py:161} INFO - Started process (PID=15599) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:27:15.626+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:27:15.627+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:27:15.627+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:27:15.631+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:27:15.646+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:27:15.646+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:27:15.653+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:27:15.653+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:27:15.682+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.065 seconds
+[2024-08-02T14:27:46.237+0700] {processor.py:161} INFO - Started process (PID=15732) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:27:46.237+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:27:46.238+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:27:46.238+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:27:46.241+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:27:46.255+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:27:46.254+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:27:46.262+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:27:46.262+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:27:46.289+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.056 seconds
+[2024-08-02T14:28:18.672+0700] {processor.py:161} INFO - Started process (PID=15879) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:28:18.674+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:28:18.675+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:28:18.674+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:28:18.679+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:28:18.692+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:28:18.692+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:28:18.700+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:28:18.700+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:28:18.729+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.062 seconds
+[2024-08-02T14:28:49.507+0700] {processor.py:161} INFO - Started process (PID=16015) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:28:49.509+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:28:49.510+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:28:49.510+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:28:49.513+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:28:49.527+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:28:49.526+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:28:49.534+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:28:49.534+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:28:49.562+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.059 seconds
+[2024-08-02T14:29:20.179+0700] {processor.py:161} INFO - Started process (PID=16150) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:29:20.182+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:29:20.182+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:29:20.182+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:29:20.188+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:29:20.212+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:29:20.211+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:29:20.221+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:29:20.221+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:29:20.253+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.078 seconds
+[2024-08-02T14:29:50.817+0700] {processor.py:161} INFO - Started process (PID=16284) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:29:50.819+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:29:50.819+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:29:50.819+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:29:50.823+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:29:50.839+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:29:50.839+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:29:50.850+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:29:50.850+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:29:50.877+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.066 seconds
+[2024-08-02T14:30:21.120+0700] {processor.py:161} INFO - Started process (PID=16416) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:30:21.121+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:30:21.122+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:30:21.122+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:30:21.126+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:30:21.139+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:30:21.139+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:30:21.147+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:30:21.146+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:30:21.174+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.058 seconds
+[2024-08-02T14:30:52.202+0700] {processor.py:161} INFO - Started process (PID=16558) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:30:52.204+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:30:52.205+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:30:52.204+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:30:52.208+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:30:52.224+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:30:52.223+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:30:52.232+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:30:52.232+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:30:52.261+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.064 seconds
+[2024-08-02T14:31:22.604+0700] {processor.py:161} INFO - Started process (PID=16690) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:31:22.607+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:31:22.608+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:31:22.607+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:31:22.611+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:31:22.625+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:31:22.625+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:31:22.632+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:31:22.632+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:31:22.659+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.059 seconds
+[2024-08-02T14:31:53.170+0700] {processor.py:161} INFO - Started process (PID=16822) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:31:53.171+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:31:53.172+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:31:53.172+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:31:53.176+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:31:53.188+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:31:53.188+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:31:53.196+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:31:53.196+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:31:53.224+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.057 seconds
+[2024-08-02T14:32:23.514+0700] {processor.py:161} INFO - Started process (PID=16984) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:32:23.515+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:32:23.515+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:32:23.515+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:32:23.519+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:32:23.533+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:32:23.533+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:32:23.540+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:32:23.540+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:32:23.567+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.057 seconds
+[2024-08-02T14:32:53.683+0700] {processor.py:161} INFO - Started process (PID=17150) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:32:53.684+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:32:53.684+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:32:53.684+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:32:53.688+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:32:53.701+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:32:53.701+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:32:53.708+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:32:53.708+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:32:53.735+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.057 seconds
+[2024-08-02T14:33:23.848+0700] {processor.py:161} INFO - Started process (PID=17284) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:33:23.849+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:33:23.849+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:33:23.849+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:33:23.852+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:33:23.866+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:33:23.866+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:33:23.874+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:33:23.874+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:33:23.899+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.055 seconds
+[2024-08-02T14:33:54.014+0700] {processor.py:161} INFO - Started process (PID=17416) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:33:54.015+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:33:54.016+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:33:54.015+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:33:54.020+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:33:54.040+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:33:54.039+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:33:54.051+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:33:54.051+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:33:54.086+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.079 seconds
+[2024-08-02T14:34:24.264+0700] {processor.py:161} INFO - Started process (PID=17547) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:34:24.266+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:34:24.267+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:34:24.267+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:34:24.271+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:34:24.285+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:34:24.284+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:34:24.292+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:34:24.292+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:34:24.318+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.059 seconds
+[2024-08-02T14:34:54.541+0700] {processor.py:161} INFO - Started process (PID=17678) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:34:54.542+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:34:54.542+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:34:54.542+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:34:54.546+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:34:54.559+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:34:54.559+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:34:54.567+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:34:54.566+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:34:54.593+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.056 seconds
+[2024-08-02T14:35:24.810+0700] {processor.py:161} INFO - Started process (PID=17813) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:35:24.811+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:35:24.812+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:35:24.811+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:35:24.815+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:35:24.828+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:35:24.828+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:35:24.835+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:35:24.835+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:35:24.864+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.059 seconds
+[2024-08-02T14:35:55.089+0700] {processor.py:161} INFO - Started process (PID=17943) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:35:55.089+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:35:55.090+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:35:55.090+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:35:55.093+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:35:55.106+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:35:55.106+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:35:55.114+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:35:55.113+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:35:55.142+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.057 seconds
+[2024-08-02T14:36:25.359+0700] {processor.py:161} INFO - Started process (PID=18098) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:36:25.362+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:36:25.363+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:36:25.362+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:36:25.366+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:36:25.380+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:36:25.380+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:36:25.388+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:36:25.388+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:36:25.416+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.061 seconds
+[2024-08-02T14:36:55.634+0700] {processor.py:161} INFO - Started process (PID=18231) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:36:55.635+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:36:55.636+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:36:55.636+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:36:55.640+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:36:55.654+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:36:55.653+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:36:55.661+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:36:55.661+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:36:55.688+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.058 seconds
+[2024-08-02T14:37:25.904+0700] {processor.py:161} INFO - Started process (PID=18364) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:37:25.905+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:37:25.906+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:37:25.906+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:37:25.910+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:37:25.923+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:37:25.923+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:37:25.930+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:37:25.930+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:37:25.959+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.059 seconds
+[2024-08-02T14:37:56.117+0700] {processor.py:161} INFO - Started process (PID=18495) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:37:56.119+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:37:56.119+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:37:56.119+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:37:56.123+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:37:56.137+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:37:56.136+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:37:56.144+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:37:56.144+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:37:56.173+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.060 seconds
+[2024-08-02T14:38:26.435+0700] {processor.py:161} INFO - Started process (PID=18626) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:38:26.437+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:38:26.438+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:38:26.438+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:38:26.442+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:38:26.455+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:38:26.455+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:38:26.462+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:38:26.462+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:38:26.488+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.057 seconds
+[2024-08-02T14:38:56.750+0700] {processor.py:161} INFO - Started process (PID=18758) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:38:56.753+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:38:56.754+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:38:56.753+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:38:56.757+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:38:56.771+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:38:56.771+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:38:56.779+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:38:56.779+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:38:56.808+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.062 seconds
+[2024-08-02T14:39:45.652+0700] {processor.py:161} INFO - Started process (PID=19292) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:39:45.701+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:39:45.726+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:39:45.709+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:39:45.947+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:39:49.242+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:39:48.784+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:39:59.305+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:39:59.232+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:40:01.221+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 15.616 seconds
+[2024-08-02T14:43:39.724+0700] {processor.py:161} INFO - Started process (PID=19753) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:43:39.810+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:43:39.865+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:43:39.839+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:43:40.172+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:45:21.446+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:45:21.436+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:45:21.539+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:45:21.537+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:45:21.768+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 102.165 seconds
+[2024-08-02T14:54:38.511+0700] {processor.py:161} INFO - Started process (PID=23293) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:54:38.516+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:54:38.517+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:54:38.517+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:54:38.607+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:54:38.622+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:54:38.622+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:54:38.633+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:54:38.633+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:54:38.670+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.162 seconds
+[2024-08-02T14:55:08.920+0700] {processor.py:161} INFO - Started process (PID=23434) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T14:55:08.922+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T14:55:08.924+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:55:08.923+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:55:08.929+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T14:55:08.943+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:55:08.943+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T14:55:08.959+0700] {logging_mixin.py:188} INFO - [2024-08-02T14:55:08.959+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T14:55:08.989+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.074 seconds
+[2024-08-02T22:05:18.357+0700] {processor.py:161} INFO - Started process (PID=2390) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T22:05:18.359+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T22:05:18.360+0700] {logging_mixin.py:188} INFO - [2024-08-02T22:05:18.360+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T22:05:18.462+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T22:05:18.474+0700] {logging_mixin.py:188} INFO - [2024-08-02T22:05:18.474+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T22:05:18.482+0700] {logging_mixin.py:188} INFO - [2024-08-02T22:05:18.482+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T22:05:18.511+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.158 seconds
+[2024-08-02T22:51:55.586+0700] {processor.py:161} INFO - Started process (PID=1434) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T22:51:55.596+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T22:51:55.597+0700] {logging_mixin.py:188} INFO - [2024-08-02T22:51:55.596+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T22:51:56.085+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T22:51:56.101+0700] {logging_mixin.py:188} INFO - [2024-08-02T22:51:56.101+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T22:51:56.111+0700] {logging_mixin.py:188} INFO - [2024-08-02T22:51:56.111+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T22:51:56.134+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.555 seconds
+[2024-08-02T22:52:26.556+0700] {processor.py:161} INFO - Started process (PID=1569) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T22:52:26.557+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T22:52:26.558+0700] {logging_mixin.py:188} INFO - [2024-08-02T22:52:26.558+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T22:52:26.565+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T22:52:26.578+0700] {logging_mixin.py:188} INFO - [2024-08-02T22:52:26.577+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T22:52:26.586+0700] {logging_mixin.py:188} INFO - [2024-08-02T22:52:26.585+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T22:52:26.614+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.062 seconds
+[2024-08-02T22:52:57.011+0700] {processor.py:161} INFO - Started process (PID=1707) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T22:52:57.013+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T22:52:57.016+0700] {logging_mixin.py:188} INFO - [2024-08-02T22:52:57.015+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T22:52:57.033+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T22:52:57.061+0700] {logging_mixin.py:188} INFO - [2024-08-02T22:52:57.060+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T22:52:57.076+0700] {logging_mixin.py:188} INFO - [2024-08-02T22:52:57.076+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T22:52:57.107+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.107 seconds
+[2024-08-02T22:53:27.554+0700] {processor.py:161} INFO - Started process (PID=1840) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T22:53:27.556+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T22:53:27.557+0700] {logging_mixin.py:188} INFO - [2024-08-02T22:53:27.557+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T22:53:27.564+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T22:53:27.577+0700] {logging_mixin.py:188} INFO - [2024-08-02T22:53:27.576+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T22:53:27.587+0700] {logging_mixin.py:188} INFO - [2024-08-02T22:53:27.587+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T22:53:27.614+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.064 seconds
+[2024-08-02T22:53:57.945+0700] {processor.py:161} INFO - Started process (PID=1979) to work on /root/airflow/dags/aws_s3.py
+[2024-08-02T22:53:57.945+0700] {processor.py:830} INFO - Processing file /root/airflow/dags/aws_s3.py for tasks to queue
+[2024-08-02T22:53:57.947+0700] {logging_mixin.py:188} INFO - [2024-08-02T22:53:57.947+0700] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/aws_s3.py
+[2024-08-02T22:53:57.956+0700] {processor.py:840} INFO - DAG(s) 'aws_s3' retrieved from /root/airflow/dags/aws_s3.py
+[2024-08-02T22:53:57.971+0700] {logging_mixin.py:188} INFO - [2024-08-02T22:53:57.971+0700] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-02T22:53:57.988+0700] {logging_mixin.py:188} INFO - [2024-08-02T22:53:57.987+0700] {dag.py:3947} INFO - Setting next_dagrun for aws_s3 to None, run_after=None
+[2024-08-02T22:53:58.025+0700] {processor.py:183} INFO - Processing /root/airflow/dags/aws_s3.py took 0.084 seconds
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

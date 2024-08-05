@@ -1,0 +1,35 @@
+[2024-07-31T11:07:16.486+0700] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-07-31T11:07:16.503+0700] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: dbt_subprocess_test.dbt_run manual__2024-07-31T04:07:13.856244+00:00 [queued]>
+[2024-07-31T11:07:16.511+0700] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: dbt_subprocess_test.dbt_run manual__2024-07-31T04:07:13.856244+00:00 [queued]>
+[2024-07-31T11:07:16.511+0700] {taskinstance.py:2306} INFO - Starting attempt 1 of 2
+[2024-07-31T11:07:16.536+0700] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): dbt_run> on 2024-07-31 04:07:13.856244+00:00
+[2024-07-31T11:07:16.539+0700] {standard_task_runner.py:64} INFO - Started process 19147 to run task
+[2024-07-31T11:07:16.541+0700] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'dbt_subprocess_test', 'dbt_run', 'manual__2024-07-31T04:07:13.856244+00:00', '--job-id', '51', '--raw', '--subdir', 'DAGS_FOLDER/dbt_subprocess_test.py', '--cfg-path', '/tmp/tmpvmmwtlrz']
+[2024-07-31T11:07:16.542+0700] {standard_task_runner.py:91} INFO - Job 51: Subtask dbt_run
+[2024-07-31T11:07:16.587+0700] {task_command.py:426} INFO - Running <TaskInstance: dbt_subprocess_test.dbt_run manual__2024-07-31T04:07:13.856244+00:00 [running]> on host DESKTOP-RHVHV7A.
+[2024-07-31T11:07:16.662+0700] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='dbt_subprocess_test' AIRFLOW_CTX_TASK_ID='dbt_run' AIRFLOW_CTX_EXECUTION_DATE='2024-07-31T04:07:13.856244+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-07-31T04:07:13.856244+00:00'
+[2024-07-31T11:07:16.663+0700] {taskinstance.py:430} INFO - ::endgroup::
+[2024-07-31T11:07:26.657+0700] {logging_mixin.py:188} INFO - Command 'dbt run' returned non-zero exit status 2.
+[2024-07-31T11:07:26.657+0700] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-07-31T11:07:26.658+0700] {taskinstance.py:2905} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/taskinstance.py", line 465, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/taskinstance.py", line 432, in _execute_callable
+    return execute_callable(context=context, **execute_callable_kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/baseoperator.py", line 401, in wrapper
+    return func(self, *args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/operators/python.py", line 235, in execute
+    return_value = self.execute_callable()
+  File "/usr/local/lib/python3.10/dist-packages/airflow/operators/python.py", line 252, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/root/airflow/dags/dbt_subprocess_test.py", line 26, in run_dbt_command
+    subprocess.run(
+  File "/usr/lib/python3.10/subprocess.py", line 526, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command 'dbt run' returned non-zero exit status 2.
+[2024-07-31T11:07:26.662+0700] {taskinstance.py:1206} INFO - Marking task as UP_FOR_RETRY. dag_id=dbt_subprocess_test, task_id=dbt_run, run_id=manual__2024-07-31T04:07:13.856244+00:00, execution_date=20240731T040713, start_date=20240731T040716, end_date=20240731T040726
+[2024-07-31T11:07:26.683+0700] {standard_task_runner.py:110} ERROR - Failed to execute job 51 for task dbt_run (Command 'dbt run' returned non-zero exit status 2.; 19147)
+[2024-07-31T11:07:26.722+0700] {local_task_job_runner.py:243} INFO - Task exited with return code 1
+[2024-07-31T11:07:26.734+0700] {taskinstance.py:3503} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-07-31T11:07:26.734+0700] {local_task_job_runner.py:222} INFO - ::endgroup::
